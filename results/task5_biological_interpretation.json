@@ -1,0 +1,2673 @@
+{
+  "vep": {
+    "rs10830963": {
+      "most_severe_consequence": "intron_variant",
+      "overlapping_genes": [
+        "MTNR1B"
+      ],
+      "primary_transcripts": [
+        {
+          "transcript_id": "ENST00000257068",
+          "gene_symbol": "MTNR1B",
+          "gene_id": "ENSG00000134640",
+          "biotype": "protein_coding",
+          "consequence_terms": [
+            "intron_variant"
+          ],
+          "impact": "MODIFIER",
+          "conservation": -0.4,
+          "loeuf": 1.3635,
+          "dosage_haplo": null,
+          "dosage_triplo": null
+        }
+      ]
+    },
+    "rs12947062": {
+      "most_severe_consequence": "intron_variant",
+      "overlapping_genes": [
+        "FN3KRP"
+      ],
+      "primary_transcripts": [
+        {
+          "transcript_id": "ENST00000269373",
+          "gene_symbol": "FN3KRP",
+          "gene_id": "ENSG00000141560",
+          "biotype": "protein_coding",
+          "consequence_terms": [
+            "downstream_gene_variant"
+          ],
+          "impact": "MODIFIER",
+          "conservation": -0.244,
+          "loeuf": null,
+          "dosage_haplo": null,
+          "dosage_triplo": null
+        }
+      ]
+    },
+    "rs17476364": {
+      "most_severe_consequence": "intron_variant",
+      "overlapping_genes": [
+        "HK1"
+      ],
+      "primary_transcripts": [
+        {
+          "transcript_id": "ENST00000298649",
+          "gene_symbol": "HK1",
+          "gene_id": "ENSG00000156515",
+          "biotype": "protein_coding",
+          "consequence_terms": [
+            "intron_variant"
+          ],
+          "impact": "MODIFIER",
+          "conservation": -3.81,
+          "loeuf": 0.41914,
+          "dosage_haplo": null,
+          "dosage_triplo": null
+        }
+      ]
+    },
+    "rs2908293": {
+      "most_severe_consequence": "intron_variant",
+      "overlapping_genes": [
+        "GCK"
+      ],
+      "primary_transcripts": [
+        {
+          "transcript_id": "ENST00000403799",
+          "gene_symbol": "GCK",
+          "gene_id": "ENSG00000106633",
+          "biotype": "protein_coding",
+          "consequence_terms": [
+            "intron_variant"
+          ],
+          "impact": "MODIFIER",
+          "conservation": 0.096,
+          "loeuf": 0.79017,
+          "dosage_haplo": null,
+          "dosage_triplo": null
+        }
+      ]
+    },
+    "rs62468156": {
+      "most_severe_consequence": "intergenic_variant",
+      "overlapping_genes": [],
+      "primary_transcripts": []
+    },
+    "rs72805692": {
+      "most_severe_consequence": "intron_variant",
+      "overlapping_genes": [
+        "HK1"
+      ],
+      "primary_transcripts": [
+        {
+          "transcript_id": "ENST00000298649",
+          "gene_symbol": "HK1",
+          "gene_id": "ENSG00000156515",
+          "biotype": "protein_coding",
+          "consequence_terms": [
+            "intron_variant"
+          ],
+          "impact": "MODIFIER",
+          "conservation": -1.82,
+          "loeuf": 0.41914,
+          "dosage_haplo": null,
+          "dosage_triplo": null
+        }
+      ]
+    },
+    "rs853777": {
+      "most_severe_consequence": "intron_variant",
+      "overlapping_genes": [
+        "ABCB11"
+      ],
+      "primary_transcripts": [
+        {
+          "transcript_id": "ENST00000439188",
+          "gene_symbol": "ABCB11",
+          "gene_id": "ENSG00000073734",
+          "biotype": "nonsense_mediated_decay",
+          "consequence_terms": [
+            "intron_variant",
+            "NMD_transcript_variant"
+          ],
+          "impact": "MODIFIER",
+          "conservation": -0.322,
+          "loeuf": 0.75733,
+          "dosage_haplo": null,
+          "dosage_triplo": null
+        }
+      ]
+    },
+    "rs917778362": {
+      "most_severe_consequence": "intron_variant",
+      "overlapping_genes": [
+        "PDE1C"
+      ],
+      "primary_transcripts": [
+        {
+          "transcript_id": "ENST00000321453",
+          "gene_symbol": "PDE1C",
+          "gene_id": "ENSG00000154678",
+          "biotype": "protein_coding",
+          "consequence_terms": [
+            "intron_variant"
+          ],
+          "impact": "MODIFIER",
+          "conservation": -2.06,
+          "loeuf": 0.82291,
+          "dosage_haplo": null,
+          "dosage_triplo": null
+        }
+      ]
+    }
+  },
+  "reactome_top_pathways": [
+    {
+      "stId": "R-HSA-9615017",
+      "name": "FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes",
+      "pValue": 1.7107703809138286e-08,
+      "fdr": 9.067083018843292e-07,
+      "found": 4,
+      "total": 49
+    },
+    {
+      "stId": "R-HSA-9614085",
+      "name": "FOXO-mediated transcription",
+      "pValue": 4.267062739815586e-07,
+      "fdr": 1.1094363123520523e-05,
+      "found": 4,
+      "total": 110
+    },
+    {
+      "stId": "R-HSA-70326",
+      "name": "Glucose metabolism",
+      "pValue": 6.024792241965393e-05,
+      "fdr": 0.0010242146811341168,
+      "found": 3,
+      "total": 131
+    },
+    {
+      "stId": "R-HSA-210745",
+      "name": "Regulation of gene expression in beta cells",
+      "pValue": 0.00020634762275262286,
+      "fdr": 0.002682519095784097,
+      "found": 2,
+      "total": 35
+    },
+    {
+      "stId": "R-HSA-186712",
+      "name": "Regulation of beta-cell development",
+      "pValue": 0.0007482572153988398,
+      "fdr": 0.007482572153988398,
+      "found": 2,
+      "total": 67
+    },
+    {
+      "stId": "R-HSA-5619073",
+      "name": "Defective GCK causes maturity-onset diabetes of the young 2 (MODY2)",
+      "pValue": 0.0018445074592983168,
+      "fdr": 0.01214575641213056,
+      "found": 1,
+      "total": 3
+    },
+    {
+      "stId": "R-HSA-5619056",
+      "name": "Defective HK1 causes hexokinase deficiency (HK deficiency)",
+      "pValue": 0.0018445074592983168,
+      "fdr": 0.01214575641213056,
+      "found": 1,
+      "total": 3
+    },
+    {
+      "stId": "R-HSA-70171",
+      "name": "Glycolysis",
+      "pValue": 0.0020242927353550932,
+      "fdr": 0.01214575641213056,
+      "found": 2,
+      "total": 111
+    },
+    {
+      "stId": "R-HSA-71387",
+      "name": "Metabolism of carbohydrates and carbohydrate derivatives",
+      "pValue": 0.0025985738470785114,
+      "fdr": 0.012992869235392557,
+      "found": 3,
+      "total": 477
+    },
+    {
+      "stId": "R-HSA-5619102",
+      "name": "SLC transporter disorders",
+      "pValue": 0.005488030763411977,
+      "fdr": 0.022097356971021664,
+      "found": 2,
+      "total": 185
+    },
+    {
+      "stId": "R-HSA-111957",
+      "name": "Cam-PDE 1 activation",
+      "pValue": 0.005524339242755416,
+      "fdr": 0.022097356971021664,
+      "found": 1,
+      "total": 9
+    },
+    {
+      "stId": "R-HSA-446205",
+      "name": "Synthesis of GDP-mannose",
+      "pValue": 0.0098020416277117,
+      "fdr": 0.023260535283500694,
+      "found": 1,
+      "total": 16
+    },
+    {
+      "stId": "R-HSA-399956",
+      "name": "CRMPs in Sema3A signaling",
+      "pValue": 0.011021196804342215,
+      "fdr": 0.023260535283500694,
+      "found": 1,
+      "total": 18
+    },
+    {
+      "stId": "R-HSA-5619115",
+      "name": "Disorders of transmembrane transporters",
+      "pValue": 0.011127482407064737,
+      "fdr": 0.023260535283500694,
+      "found": 2,
+      "total": 267
+    },
+    {
+      "stId": "R-HSA-212436",
+      "name": "Generic Transcription Pathway",
+      "pValue": 0.01144243697076508,
+      "fdr": 0.023260535283500694,
+      "found": 4,
+      "total": 1574
+    }
+  ],
+  "gtex_top_tissues": {
+    "G6PC2": [
+      {
+        "median": 7.85376,
+        "tissueSiteDetailId": "Pancreas",
+        "ontologyId": "UBERON:0001150",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000152254.11",
+        "geneSymbol": "G6PC2",
+        "unit": "TPM"
+      },
+      {
+        "median": 2.69506,
+        "tissueSiteDetailId": "Testis",
+        "ontologyId": "UBERON:0000473",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000152254.11",
+        "geneSymbol": "G6PC2",
+        "unit": "TPM"
+      },
+      {
+        "median": 0.094986,
+        "tissueSiteDetailId": "Lung",
+        "ontologyId": "UBERON:0008952",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000152254.11",
+        "geneSymbol": "G6PC2",
+        "unit": "TPM"
+      },
+      {
+        "median": 0.081733,
+        "tissueSiteDetailId": "Skin_Sun_Exposed_Lower_leg",
+        "ontologyId": "UBERON:8480050",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000152254.11",
+        "geneSymbol": "G6PC2",
+        "unit": "TPM"
+      },
+      {
+        "median": 0.081154,
+        "tissueSiteDetailId": "Breast_Mammary_Tissue",
+        "ontologyId": "UBERON:0008367",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000152254.11",
+        "geneSymbol": "G6PC2",
+        "unit": "TPM"
+      },
+      {
+        "median": 0.080925,
+        "tissueSiteDetailId": "Minor_Salivary_Gland",
+        "ontologyId": "UBERON:0006330",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000152254.11",
+        "geneSymbol": "G6PC2",
+        "unit": "TPM"
+      }
+    ],
+    "GCK": [
+      {
+        "median": 28.5566,
+        "tissueSiteDetailId": "Pituitary",
+        "ontologyId": "UBERON:0000007",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000106633.18",
+        "geneSymbol": "GCK",
+        "unit": "TPM"
+      },
+      {
+        "median": 6.07653,
+        "tissueSiteDetailId": "Brain_Cerebellum",
+        "ontologyId": "UBERON:0002037",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000106633.18",
+        "geneSymbol": "GCK",
+        "unit": "TPM"
+      },
+      {
+        "median": 6.0617,
+        "tissueSiteDetailId": "Brain_Cerebellar_Hemisphere",
+        "ontologyId": "UBERON:0002037",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000106633.18",
+        "geneSymbol": "GCK",
+        "unit": "TPM"
+      },
+      {
+        "median": 5.4838,
+        "tissueSiteDetailId": "Brain_Hypothalamus",
+        "ontologyId": "UBERON:0001898",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000106633.18",
+        "geneSymbol": "GCK",
+        "unit": "TPM"
+      },
+      {
+        "median": 2.45008,
+        "tissueSiteDetailId": "Heart_Atrial_Appendage",
+        "ontologyId": "UBERON:0006631",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000106633.18",
+        "geneSymbol": "GCK",
+        "unit": "TPM"
+      },
+      {
+        "median": 2.31365,
+        "tissueSiteDetailId": "Cervix_Endocervix",
+        "ontologyId": "UBERON:0000458",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000106633.18",
+        "geneSymbol": "GCK",
+        "unit": "TPM"
+      }
+    ],
+    "HK1": [
+      {
+        "median": 178.552,
+        "tissueSiteDetailId": "Brain_Cerebellar_Hemisphere",
+        "ontologyId": "UBERON:0002037",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000156515.24",
+        "geneSymbol": "HK1",
+        "unit": "TPM"
+      },
+      {
+        "median": 160.519,
+        "tissueSiteDetailId": "Brain_Cerebellum",
+        "ontologyId": "UBERON:0002037",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000156515.24",
+        "geneSymbol": "HK1",
+        "unit": "TPM"
+      },
+      {
+        "median": 141.23,
+        "tissueSiteDetailId": "Esophagus_Mucosa",
+        "ontologyId": "UBERON:0006920",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000156515.24",
+        "geneSymbol": "HK1",
+        "unit": "TPM"
+      },
+      {
+        "median": 133.715,
+        "tissueSiteDetailId": "Artery_Aorta",
+        "ontologyId": "UBERON:0001496",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000156515.24",
+        "geneSymbol": "HK1",
+        "unit": "TPM"
+      },
+      {
+        "median": 131.45,
+        "tissueSiteDetailId": "Skin_Sun_Exposed_Lower_leg",
+        "ontologyId": "UBERON:8480050",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000156515.24",
+        "geneSymbol": "HK1",
+        "unit": "TPM"
+      },
+      {
+        "median": 124.914,
+        "tissueSiteDetailId": "Artery_Coronary",
+        "ontologyId": "UBERON:0001621",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000156515.24",
+        "geneSymbol": "HK1",
+        "unit": "TPM"
+      }
+    ],
+    "MTNR1B": [
+      {
+        "median": 0.638388,
+        "tissueSiteDetailId": "Testis",
+        "ontologyId": "UBERON:0000473",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000134640.3",
+        "geneSymbol": "MTNR1B",
+        "unit": "TPM"
+      },
+      {
+        "median": 0.13454,
+        "tissueSiteDetailId": "Brain_Nucleus_accumbens_basal_ganglia",
+        "ontologyId": "UBERON:0001882",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000134640.3",
+        "geneSymbol": "MTNR1B",
+        "unit": "TPM"
+      },
+      {
+        "median": 0.038272,
+        "tissueSiteDetailId": "Brain_Caudate_basal_ganglia",
+        "ontologyId": "UBERON:0001873",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000134640.3",
+        "geneSymbol": "MTNR1B",
+        "unit": "TPM"
+      },
+      {
+        "median": 0.031225,
+        "tissueSiteDetailId": "Brain_Hypothalamus",
+        "ontologyId": "UBERON:0001898",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000134640.3",
+        "geneSymbol": "MTNR1B",
+        "unit": "TPM"
+      },
+      {
+        "median": 0.011491,
+        "tissueSiteDetailId": "Brain_Amygdala",
+        "ontologyId": "UBERON:0001876",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000134640.3",
+        "geneSymbol": "MTNR1B",
+        "unit": "TPM"
+      },
+      {
+        "median": 0.0,
+        "tissueSiteDetailId": "Adipose_Subcutaneous",
+        "ontologyId": "UBERON:0002190",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000134640.3",
+        "geneSymbol": "MTNR1B",
+        "unit": "TPM"
+      }
+    ],
+    "PDE1C": [
+      {
+        "median": 19.1496,
+        "tissueSiteDetailId": "Fallopian_Tube",
+        "ontologyId": "UBERON:0003889",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000154678.18",
+        "geneSymbol": "PDE1C",
+        "unit": "TPM"
+      },
+      {
+        "median": 14.5317,
+        "tissueSiteDetailId": "Heart_Left_Ventricle",
+        "ontologyId": "UBERON:0006566",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000154678.18",
+        "geneSymbol": "PDE1C",
+        "unit": "TPM"
+      },
+      {
+        "median": 13.946,
+        "tissueSiteDetailId": "Brain_Spinal_cord_cervical_c-1",
+        "ontologyId": "UBERON:0006469",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000154678.18",
+        "geneSymbol": "PDE1C",
+        "unit": "TPM"
+      },
+      {
+        "median": 9.85735,
+        "tissueSiteDetailId": "Heart_Atrial_Appendage",
+        "ontologyId": "UBERON:0006631",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000154678.18",
+        "geneSymbol": "PDE1C",
+        "unit": "TPM"
+      },
+      {
+        "median": 8.88325,
+        "tissueSiteDetailId": "Bladder",
+        "ontologyId": "UBERON:0001255",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000154678.18",
+        "geneSymbol": "PDE1C",
+        "unit": "TPM"
+      },
+      {
+        "median": 7.29344,
+        "tissueSiteDetailId": "Artery_Tibial",
+        "ontologyId": "UBERON:0007610",
+        "datasetId": "gtex_v10",
+        "gencodeId": "ENSG00000154678.18",
+        "geneSymbol": "PDE1C",
+        "unit": "TPM"
+      }
+    ]
+  },
+  "opentargets": {
+    "druggability": {
+      "GCK": {
+        "target": {
+          "id": "ENSG00000106633",
+          "approvedSymbol": "GCK",
+          "tractability": [
+            {
+              "modality": "SM",
+              "label": "Approved Drug",
+              "value": false
+            },
+            {
+              "modality": "SM",
+              "label": "Advanced Clinical",
+              "value": true
+            },
+            {
+              "modality": "SM",
+              "label": "Phase 1 Clinical",
+              "value": false
+            },
+            {
+              "modality": "SM",
+              "label": "Structure with Ligand",
+              "value": true
+            },
+            {
+              "modality": "SM",
+              "label": "High-Quality Ligand",
+              "value": true
+            },
+            {
+              "modality": "SM",
+              "label": "High-Quality Pocket",
+              "value": true
+            },
+            {
+              "modality": "SM",
+              "label": "Med-Quality Pocket",
+              "value": false
+            },
+            {
+              "modality": "SM",
+              "label": "Druggable Family",
+              "value": true
+            },
+            {
+              "modality": "AB",
+              "label": "Approved Drug",
+              "value": false
+            },
+            {
+              "modality": "AB",
+              "label": "Advanced Clinical",
+              "value": false
+            },
+            {
+              "modality": "AB",
+              "label": "Phase 1 Clinical",
+              "value": false
+            },
+            {
+              "modality": "AB",
+              "label": "UniProt loc high conf",
+              "value": false
+            },
+            {
+              "modality": "AB",
+              "label": "GO CC high conf",
+              "value": false
+            },
+            {
+              "modality": "AB",
+              "label": "UniProt loc med conf",
+              "value": false
+            },
+            {
+              "modality": "AB",
+              "label": "UniProt SigP or TMHMM",
+              "value": false
+            },
+            {
+              "modality": "AB",
+              "label": "GO CC med conf",
+              "value": false
+            },
+            {
+              "modality": "AB",
+              "label": "Human Protein Atlas loc",
+              "value": false
+            },
+            {
+              "modality": "PR",
+              "label": "Approved Drug",
+              "value": false
+            },
+            {
+              "modality": "PR",
+              "label": "Advanced Clinical",
+              "value": false
+            },
+            {
+              "modality": "PR",
+              "label": "Phase 1 Clinical",
+              "value": false
+            },
+            {
+              "modality": "PR",
+              "label": "Literature",
+              "value": false
+            },
+            {
+              "modality": "PR",
+              "label": "UniProt Ubiquitination",
+              "value": false
+            },
+            {
+              "modality": "PR",
+              "label": "Database Ubiquitination",
+              "value": false
+            },
+            {
+              "modality": "PR",
+              "label": "Half-life Data",
+              "value": false
+            },
+            {
+              "modality": "PR",
+              "label": "Small Molecule Binder",
+              "value": true
+            },
+            {
+              "modality": "OC",
+              "label": "Approved Drug",
+              "value": false
+            },
+            {
+              "modality": "OC",
+              "label": "Advanced Clinical",
+              "value": false
+            },
+            {
+              "modality": "OC",
+              "label": "Phase 1 Clinical",
+              "value": false
+            }
+          ],
+          "safetyLiabilities": [],
+          "geneticConstraint": [
+            {
+              "constraintType": "syn",
+              "exp": 265.1199951171875,
+              "obs": 256,
+              "score": 0.33423998951911926,
+              "oe": 0.9656000137329102
+            },
+            {
+              "constraintType": "mis",
+              "exp": 651.5399780273438,
+              "obs": 451,
+              "score": 3.3506999015808105,
+              "oe": 0.6922100186347961
+            },
+            {
+              "constraintType": "lof",
+              "exp": 50.5620002746582,
+              "obs": 30,
+              "score": 4.864899892709218e-06,
+              "oe": 0.5933300256729126
+            }
+          ]
+        }
+      },
+      "HK1": {
+        "target": {
+          "id": "ENSG00000156515",
+          "approvedSymbol": "HK1",
+          "tractability": [
+            {
+              "modality": "SM",
+              "label": "Approved Drug",
+              "value": false
+            },
+            {
+              "modality": "SM",
+              "label": "Advanced Clinical",
+              "value": false
+            },
+            {
+              "modality": "SM",
+              "label": "Phase 1 Clinical",
+              "value": false
+            },
+            {
+              "modality": "SM",
+              "label": "Structure with Ligand",
+              "value": true
+            },
+            {
+              "modality": "SM",
+              "label": "High-Quality Ligand",
+              "value": true
+            },
+            {
+              "modality": "SM",
+              "label": "High-Quality Pocket",
+              "value": true
+            },
+            {
+              "modality": "SM",
+              "label": "Med-Quality Pocket",
+              "value": false
+            },
+            {
+              "modality": "SM",
+              "label": "Druggable Family",
+              "value": false
+            },
+            {
+              "modality": "AB",
+              "label": "Approved Drug",
+              "value": false
+            },
+            {
+              "modality": "AB",
+              "label": "Advanced Clinical",
+              "value": false
+            },
+            {
+              "modality": "AB",
+              "label": "Phase 1 Clinical",
+              "value": false
+            },
+            {
+              "modality": "AB",
+              "label": "UniProt loc high conf",
+              "value": true
+            },
+            {
+              "modality": "AB",
+              "label": "GO CC high conf",
+              "value": false
+            },
+            {
+              "modality": "AB",
+              "label": "UniProt loc med conf",
+              "value": false
+            },
+            {
+              "modality": "AB",
+              "label": "UniProt SigP or TMHMM",
+              "value": false
+            },
+            {
+              "modality": "AB",
+              "label": "GO CC med conf",
+              "value": false
+            },
+            {
+              "modality": "AB",
+              "label": "Human Protein Atlas loc",
+              "value": false
+            },
+            {
+              "modality": "PR",
+              "label": "Approved Drug",
+              "value": false
+            },
+            {
+              "modality": "PR",
+              "label": "Advanced Clinical",
+              "value": false
+            },
+            {
+              "modality": "PR",
+              "label": "Phase 1 Clinical",
+              "value": false
+            },
+            {
+              "modality": "PR",
+              "label": "Literature",
+              "value": false
+            },
+            {
+              "modality": "PR",
+              "label": "UniProt Ubiquitination",
+              "value": false
+            },
+            {
+              "modality": "PR",
+              "label": "Database Ubiquitination",
+              "value": true
+            },
+            {
+              "modality": "PR",
+              "label": "Half-life Data",
+              "value": true
+            },
+            {
+              "modality": "PR",
+              "label": "Small Molecule Binder",
+              "value": true
+            },
+            {
+              "modality": "OC",
+              "label": "Approved Drug",
+              "value": false
+            },
+            {
+              "modality": "OC",
+              "label": "Advanced Clinical",
+              "value": false
+            },
+            {
+              "modality": "OC",
+              "label": "Phase 1 Clinical",
+              "value": false
+            }
+          ],
+          "safetyLiabilities": [],
+          "geneticConstraint": [
+            {
+              "constraintType": "syn",
+              "exp": 468.1099853515625,
+              "obs": 430,
+              "score": 1.0511000156402588,
+              "oe": 0.9185799956321716
+            },
+            {
+              "constraintType": "mis",
+              "exp": 1219.800048828125,
+              "obs": 770,
+              "score": 5.492599964141846,
+              "oe": 0.6312500238418579
+            },
+            {
+              "constraintType": "lof",
+              "exp": 91.58999633789062,
+              "obs": 28,
+              "score": 0.9999799728393555,
+              "oe": 0.30570998787879944
+            }
+          ]
+        }
+      },
+      "PDE1C": {
+        "target": {
+          "id": "ENSG00000154678",
+          "approvedSymbol": "PDE1C",
+          "tractability": [
+            {
+              "modality": "SM",
+              "label": "Approved Drug",
+              "value": true
+            },
+            {
+              "modality": "SM",
+              "label": "Advanced Clinical",
+              "value": false
+            },
+            {
+              "modality": "SM",
+              "label": "Phase 1 Clinical",
+              "value": false
+            },
+            {
+              "modality": "SM",
+              "label": "Structure with Ligand",
+              "value": false
+            },
+            {
+              "modality": "SM",
+              "label": "High-Quality Ligand",
+              "value": true
+            },
+            {
+              "modality": "SM",
+              "label": "High-Quality Pocket",
+              "value": false
+            },
+            {
+              "modality": "SM",
+              "label": "Med-Quality Pocket",
+              "value": false
+            },
+            {
+              "modality": "SM",
+              "label": "Druggable Family",
+              "value": true
+            },
+            {
+              "modality": "AB",
+              "label": "Approved Drug",
+              "value": false
+            },
+            {
+              "modality": "AB",
+              "label": "Advanced Clinical",
+              "value": false
+            },
+            {
+              "modality": "AB",
+              "label": "Phase 1 Clinical",
+              "value": false
+            },
+            {
+              "modality": "AB",
+              "label": "UniProt loc high conf",
+              "value": false
+            },
+            {
+              "modality": "AB",
+              "label": "GO CC high conf",
+              "value": false
+            },
+            {
+              "modality": "AB",
+              "label": "UniProt loc med conf",
+              "value": false
+            },
+            {
+              "modality": "AB",
+              "label": "UniProt SigP or TMHMM",
+              "value": false
+            },
+            {
+              "modality": "AB",
+              "label": "GO CC med conf",
+              "value": false
+            },
+            {
+              "modality": "AB",
+              "label": "Human Protein Atlas loc",
+              "value": false
+            },
+            {
+              "modality": "PR",
+              "label": "Approved Drug",
+              "value": false
+            },
+            {
+              "modality": "PR",
+              "label": "Advanced Clinical",
+              "value": false
+            },
+            {
+              "modality": "PR",
+              "label": "Phase 1 Clinical",
+              "value": false
+            },
+            {
+              "modality": "PR",
+              "label": "Literature",
+              "value": false
+            },
+            {
+              "modality": "PR",
+              "label": "UniProt Ubiquitination",
+              "value": false
+            },
+            {
+              "modality": "PR",
+              "label": "Database Ubiquitination",
+              "value": false
+            },
+            {
+              "modality": "PR",
+              "label": "Half-life Data",
+              "value": false
+            },
+            {
+              "modality": "PR",
+              "label": "Small Molecule Binder",
+              "value": true
+            },
+            {
+              "modality": "OC",
+              "label": "Approved Drug",
+              "value": false
+            },
+            {
+              "modality": "OC",
+              "label": "Advanced Clinical",
+              "value": false
+            },
+            {
+              "modality": "OC",
+              "label": "Phase 1 Clinical",
+              "value": false
+            }
+          ],
+          "safetyLiabilities": [],
+          "geneticConstraint": [
+            {
+              "constraintType": "syn",
+              "exp": 310.1099853515625,
+              "obs": 325,
+              "score": -0.5046700239181519,
+              "oe": 1.0479999780654907
+            },
+            {
+              "constraintType": "mis",
+              "exp": 884.5599975585938,
+              "obs": 742,
+              "score": 2.044300079345703,
+              "oe": 0.8388400077819824
+            },
+            {
+              "constraintType": "lof",
+              "exp": 93.08300018310547,
+              "obs": 62,
+              "score": 7.114000008653573e-14,
+              "oe": 0.6660799980163574
+            }
+          ]
+        }
+      }
+    },
+    "l2g": {
+      "rs10830963": {
+        "credibleSets": {
+          "count": 212,
+          "rows": [
+            {
+              "studyLocusId": "00250aa6ce26a06cfa68162c49787bbf",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST005186",
+                "studyType": "gwas",
+                "traitFromSource": "Fasting blood glucose"
+              },
+              "variant": {
+                "id": "11_92975544_C_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8653802871704102,
+                    "target": {
+                      "id": "ENSG00000134640",
+                      "approvedSymbol": "MTNR1B"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "006f88f3d1d66005128b1a895c9d6db6",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90692860",
+                "studyType": "gwas",
+                "traitFromSource": "Diabetes diagnosed by doctor (UKB data field 2443)"
+              },
+              "variant": {
+                "id": "11_92975544_C_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8653802871704102,
+                    "target": {
+                      "id": "ENSG00000134640",
+                      "approvedSymbol": "MTNR1B"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "01084dc449ff89f017ebe62f722cd2d6",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90296698",
+                "studyType": "gwas",
+                "traitFromSource": "Type 2 diabetes"
+              },
+              "variant": {
+                "id": "11_92975544_C_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8653802871704102,
+                    "target": {
+                      "id": "ENSG00000134640",
+                      "approvedSymbol": "MTNR1B"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "0426d1d63868d4bf6563ffae60415c22",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST90501329",
+                "studyType": "gwas",
+                "traitFromSource": "Triglycerides to Total Lipids in Very Small VLDL percentage"
+              },
+              "variant": {
+                "id": "11_92975544_C_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.9291749596595764,
+                    "target": {
+                      "id": "ENSG00000134640",
+                      "approvedSymbol": "MTNR1B"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "05300e977d0c6bb668d5fb48337a3ab8",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST004489",
+                "studyType": "gwas",
+                "traitFromSource": "Insulin disposition index"
+              },
+              "variant": {
+                "id": "11_92975544_C_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8812732100486755,
+                    "target": {
+                      "id": "ENSG00000134640",
+                      "approvedSymbol": "MTNR1B"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "06afbb9666d8f98644805822b96fe6a8",
+              "confidence": "PICS fine-mapped credible set based on reported top hit",
+              "study": {
+                "id": "GCST90557999",
+                "studyType": "gwas",
+                "traitFromSource": "Gestational diabetes mellitus"
+              },
+              "variant": {
+                "id": "11_92975544_C_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8908105492591858,
+                    "target": {
+                      "id": "ENSG00000134640",
+                      "approvedSymbol": "MTNR1B"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "087fa45deb5b9512d80ef95988264b55",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST90501259",
+                "studyType": "gwas",
+                "traitFromSource": "Cholesterol to Total Lipids in Small VLDL percentage"
+              },
+              "variant": {
+                "id": "11_92975544_C_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8991038799285889,
+                    "target": {
+                      "id": "ENSG00000134640",
+                      "approvedSymbol": "MTNR1B"
+                    }
+                  },
+                  {
+                    "score": 0.05078546702861786,
+                    "target": {
+                      "id": "ENSG00000180773",
+                      "approvedSymbol": "SLC36A4"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "0946d4a66f053f7ac67356a2c683ff1c",
+              "confidence": "PICS fine-mapped credible set based on reported top hit",
+              "study": {
+                "id": "GCST90292476",
+                "studyType": "gwas",
+                "traitFromSource": "Pulse pressure"
+              },
+              "variant": {
+                "id": "11_92975544_C_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.9303500056266785,
+                    "target": {
+                      "id": "ENSG00000134640",
+                      "approvedSymbol": "MTNR1B"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "095fdc36f8b29e4305b5f1c5437501bf",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90278632",
+                "studyType": "gwas",
+                "traitFromSource": "Hemoglobin A1c levels"
+              },
+              "variant": {
+                "id": "11_92975544_C_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8987975716590881,
+                    "target": {
+                      "id": "ENSG00000134640",
+                      "approvedSymbol": "MTNR1B"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "0cd519924bf502690db891692c109143",
+              "confidence": "PICS fine-mapped credible set based on reported top hit",
+              "study": {
+                "id": "GCST001391",
+                "studyType": "gwas",
+                "traitFromSource": "Metabolite levels"
+              },
+              "variant": {
+                "id": "11_92975544_C_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.9319934844970703,
+                    "target": {
+                      "id": "ENSG00000134640",
+                      "approvedSymbol": "MTNR1B"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "0d3889a5af13637b437bd2b29c21998e",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST90500713",
+                "studyType": "gwas",
+                "traitFromSource": "Cholesterol to Total Lipids in Very Small VLDL percentage"
+              },
+              "variant": {
+                "id": "11_92975544_C_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.9182549715042114,
+                    "target": {
+                      "id": "ENSG00000134640",
+                      "approvedSymbol": "MTNR1B"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "0d8f41a3c30e8ba9e26a57f74b21a375",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST90501319",
+                "studyType": "gwas",
+                "traitFromSource": "Cholesterol to Total Lipids in Very Small VLDL percentage"
+              },
+              "variant": {
+                "id": "11_92975544_C_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.9327647686004639,
+                    "target": {
+                      "id": "ENSG00000134640",
+                      "approvedSymbol": "MTNR1B"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "0fcda5ad7cad25edb720e1358f1f5f67",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST90497660",
+                "studyType": "gwas",
+                "traitFromSource": "Triglycerides to Total Lipids in IDL percentage"
+              },
+              "variant": {
+                "id": "11_92975544_C_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8991038799285889,
+                    "target": {
+                      "id": "ENSG00000134640",
+                      "approvedSymbol": "MTNR1B"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "1097f46ae3859fab6488be7119521e27",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90475683",
+                "studyType": "gwas",
+                "traitFromSource": "Impaired fasting glucose (PheCode 250.41)"
+              },
+              "variant": {
+                "id": "11_92975544_C_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8653802871704102,
+                    "target": {
+                      "id": "ENSG00000134640",
+                      "approvedSymbol": "MTNR1B"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "10b7b54902348e842e0d081520578bad",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90475682",
+                "studyType": "gwas",
+                "traitFromSource": "Abnormal glucose (PheCode 250.4)"
+              },
+              "variant": {
+                "id": "11_92975544_C_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8653802871704102,
+                    "target": {
+                      "id": "ENSG00000134640",
+                      "approvedSymbol": "MTNR1B"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "_truncated": "(Showing 15 of 212 rows)"
+            }
+          ]
+        }
+      },
+      "rs17476364": {
+        "credibleSets": {
+          "count": 399,
+          "rows": [
+            {
+              "studyLocusId": "00277b93b96d7a9447d555c2b8fff9fb",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST90501121",
+                "studyType": "gwas",
+                "traitFromSource": "Cholesterol in IDL"
+              },
+              "variant": {
+                "id": "10_69333636_C_T"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8199368119239807,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "003d885ab082e356800d608da29d563a",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90475712",
+                "studyType": "gwas",
+                "traitFromSource": "Intestinal disaccharidase deficiencies and disaccharide malabsorption (PheCode 271.3)"
+              },
+              "variant": {
+                "id": "10_69339353_A_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8185427784919739,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "008e9d584a9564d00a2925eaec810036",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST90501232",
+                "studyType": "gwas",
+                "traitFromSource": "Pyruvate levels"
+              },
+              "variant": {
+                "id": "10_69334748_T_C"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.773736298084259,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "0104adb8f5cfb3796980d59b97d71214",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST90018973",
+                "studyType": "gwas",
+                "traitFromSource": "Total bilirubin levels"
+              },
+              "variant": {
+                "id": "10_69334748_T_C"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.7510425448417664,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "0253c7de1ddcbb129bbb6ec2ec6d2133",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST90497512",
+                "studyType": "gwas",
+                "traitFromSource": "Cholesterol in IDL"
+              },
+              "variant": {
+                "id": "10_69333636_C_T"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8170926570892334,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "0286c827c4362ac574e2b38107d9b72a",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST90475342",
+                "studyType": "gwas",
+                "traitFromSource": "hematocrit (minimum, inv-norm transformed)"
+              },
+              "variant": {
+                "id": "10_69334748_T_C"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8265475034713745,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "02962f9b50902885025c60edc34a3ede",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST90499213",
+                "studyType": "gwas",
+                "traitFromSource": "Omega-6 fatty acids"
+              },
+              "variant": {
+                "id": "10_69339353_A_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8010469675064087,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "02bae4847be8dc97b6adb3d42dccc395",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST90479629",
+                "studyType": "gwas",
+                "traitFromSource": "hematocrit (mean, inv-norm transformed)"
+              },
+              "variant": {
+                "id": "10_69334748_T_C"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.7510425448417664,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "055f12d2fd161be24a94b8bcb43591b5",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90691568",
+                "studyType": "gwas",
+                "traitFromSource": "Apolipoprotein B levels"
+              },
+              "variant": {
+                "id": "10_69333636_C_T"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8316206932067871,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "061b2703d1f7ec69821d141de0a0706c",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90691813",
+                "studyType": "gwas",
+                "traitFromSource": "Mean corpuscular volume (UKB data field 30040)"
+              },
+              "variant": {
+                "id": "10_69334748_T_C"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.7626442909240723,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "0805a763457a96532cb9d436541c5b2c",
+              "confidence": "PICS fine-mapped credible set based on reported top hit",
+              "study": {
+                "id": "GCST90056174",
+                "studyType": "gwas",
+                "traitFromSource": "Mean corpuscular volume"
+              },
+              "variant": {
+                "id": "10_69334748_T_C"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.7387728691101074,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "082f5f984ba0b5ce291b5df8791ab4a6",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST90474374",
+                "studyType": "gwas",
+                "traitFromSource": "HDL cholesterol levels (UKB data field 30760)"
+              },
+              "variant": {
+                "id": "10_69339353_A_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8047577142715454,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "08f5a21bc2693a9cc94271ecfbc6b06c",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST90480669",
+                "studyType": "gwas",
+                "traitFromSource": "red blood cell count (RBC, mean, inv-norm transformed)"
+              },
+              "variant": {
+                "id": "10_69334748_T_C"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.7510425448417664,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "09f1e3123893b91a09d60aebfa8c2543",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST90475450",
+                "studyType": "gwas",
+                "traitFromSource": "mean corpuscular hemoglobin (MCH, minimum, inv-norm transformed)"
+              },
+              "variant": {
+                "id": "10_69334748_T_C"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.7510425448417664,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "0a7556490a4691fe794435e9df859a5d",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST90498065",
+                "studyType": "gwas",
+                "traitFromSource": "Phospholipids in large LDL"
+              },
+              "variant": {
+                "id": "10_69333636_C_T"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8019161224365234,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "_truncated": "(Showing 15 of 399 rows)"
+            }
+          ]
+        }
+      },
+      "rs2908293": {
+        "credibleSets": {
+          "count": 15,
+          "rows": [
+            {
+              "studyLocusId": "0778202c493dd59ef163fa0e85086048",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90449379",
+                "studyType": "gwas",
+                "traitFromSource": "Glucose levels"
+              },
+              "variant": {
+                "id": "7_44169723_G_A"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.5703338980674744,
+                    "target": {
+                      "id": "ENSG00000106633",
+                      "approvedSymbol": "GCK"
+                    }
+                  },
+                  {
+                    "score": 0.06514253467321396,
+                    "target": {
+                      "id": "ENSG00000106636",
+                      "approvedSymbol": "YKT6"
+                    }
+                  },
+                  {
+                    "score": 0.0527421236038208,
+                    "target": {
+                      "id": "ENSG00000106631",
+                      "approvedSymbol": "MYL7"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "10a929ac067a673da38a62538b1a7583",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90019509",
+                "studyType": "gwas",
+                "traitFromSource": "Glycated hemoglobin levels"
+              },
+              "variant": {
+                "id": "7_44171111_C_T"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.5815592408180237,
+                    "target": {
+                      "id": "ENSG00000106633",
+                      "approvedSymbol": "GCK"
+                    }
+                  },
+                  {
+                    "score": 0.07020611315965652,
+                    "target": {
+                      "id": "ENSG00000106636",
+                      "approvedSymbol": "YKT6"
+                    }
+                  },
+                  {
+                    "score": 0.0581701397895813,
+                    "target": {
+                      "id": "ENSG00000106631",
+                      "approvedSymbol": "MYL7"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "2098a730dc215ebab738249fc9fa5b54",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90019508",
+                "studyType": "gwas",
+                "traitFromSource": "Blood glucose levels"
+              },
+              "variant": {
+                "id": "7_44180106_T_C"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.7050079107284546,
+                    "target": {
+                      "id": "ENSG00000106633",
+                      "approvedSymbol": "GCK"
+                    }
+                  },
+                  {
+                    "score": 0.08369752019643784,
+                    "target": {
+                      "id": "ENSG00000106636",
+                      "approvedSymbol": "YKT6"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "2440cec40fc76392a9a18ff1d6eaabf4",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST90301964",
+                "studyType": "gwas",
+                "traitFromSource": "Glucose levels"
+              },
+              "variant": {
+                "id": "7_44179739_A_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.6845775842666626,
+                    "target": {
+                      "id": "ENSG00000106633",
+                      "approvedSymbol": "GCK"
+                    }
+                  },
+                  {
+                    "score": 0.07469748705625534,
+                    "target": {
+                      "id": "ENSG00000106636",
+                      "approvedSymbol": "YKT6"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "30ff04bb31dcbfecfd985365cdeb8b0f",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90691576",
+                "studyType": "gwas",
+                "traitFromSource": "Glycated hemoglobin HbA1c levels"
+              },
+              "variant": {
+                "id": "7_44171111_C_T"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.5915814638137817,
+                    "target": {
+                      "id": "ENSG00000106633",
+                      "approvedSymbol": "GCK"
+                    }
+                  },
+                  {
+                    "score": 0.06738514453172684,
+                    "target": {
+                      "id": "ENSG00000106631",
+                      "approvedSymbol": "MYL7"
+                    }
+                  },
+                  {
+                    "score": 0.06738514453172684,
+                    "target": {
+                      "id": "ENSG00000106636",
+                      "approvedSymbol": "YKT6"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "3151c1c55fd39daccd3446d9b4880203",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST90480703",
+                "studyType": "gwas",
+                "traitFromSource": "Sodium (mean, inv-norm transformed)"
+              },
+              "variant": {
+                "id": "7_44171738_T_C"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.5392374992370605,
+                    "target": {
+                      "id": "ENSG00000106633",
+                      "approvedSymbol": "GCK"
+                    }
+                  },
+                  {
+                    "score": 0.08139678835868835,
+                    "target": {
+                      "id": "ENSG00000106636",
+                      "approvedSymbol": "YKT6"
+                    }
+                  },
+                  {
+                    "score": 0.06592703610658646,
+                    "target": {
+                      "id": "ENSG00000106631",
+                      "approvedSymbol": "MYL7"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "39f7b9bd4bfa46348b81234749103162",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90271559",
+                "studyType": "gwas",
+                "traitFromSource": "Random glucose levels"
+              },
+              "variant": {
+                "id": "7_44171111_C_T"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.5815592408180237,
+                    "target": {
+                      "id": "ENSG00000106633",
+                      "approvedSymbol": "GCK"
+                    }
+                  },
+                  {
+                    "score": 0.07153835147619247,
+                    "target": {
+                      "id": "ENSG00000106636",
+                      "approvedSymbol": "YKT6"
+                    }
+                  },
+                  {
+                    "score": 0.06466341018676758,
+                    "target": {
+                      "id": "ENSG00000106631",
+                      "approvedSymbol": "MYL7"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "3e17409d66378d0a26be771cfd8b5599",
+              "confidence": "SuSiE fine-mapped credible set with in-sample LD",
+              "study": {
+                "id": "gtex-v10_txrev_artery_tibial_ensg00000106624_grp_1_upstream_enst00000449162",
+                "studyType": "tuqtl",
+                "traitFromSource": "ENSG00000106624.grp_1.upstream.ENST00000449162"
+              },
+              "variant": {
+                "id": "7_44171738_T_C"
+              },
+              "l2GPredictions": {
+                "rows": []
+              }
+            },
+            {
+              "studyLocusId": "61758acef072877bec0fea97242f486f",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90476395",
+                "studyType": "gwas",
+                "traitFromSource": "Sodium (mean, inv-norm transformed)"
+              },
+              "variant": {
+                "id": "7_44180106_T_C"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.6865345239639282,
+                    "target": {
+                      "id": "ENSG00000106633",
+                      "approvedSymbol": "GCK"
+                    }
+                  },
+                  {
+                    "score": 0.07857363671064377,
+                    "target": {
+                      "id": "ENSG00000106636",
+                      "approvedSymbol": "YKT6"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "7017b8d3aee73d250d88016c2c03e98c",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST90476397",
+                "studyType": "gwas",
+                "traitFromSource": "sodium (minimum, inv-norm transformed)"
+              },
+              "variant": {
+                "id": "7_44180106_T_C"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.6712614893913269,
+                    "target": {
+                      "id": "ENSG00000106633",
+                      "approvedSymbol": "GCK"
+                    }
+                  },
+                  {
+                    "score": 0.11393178999423981,
+                    "target": {
+                      "id": "ENSG00000106636",
+                      "approvedSymbol": "YKT6"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "75f1e29a068474915dbbea188c973370",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90319641",
+                "studyType": "gwas",
+                "traitFromSource": "Serum glycated hemoglobin levels"
+              },
+              "variant": {
+                "id": "7_44171738_T_C"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.5813935399055481,
+                    "target": {
+                      "id": "ENSG00000106633",
+                      "approvedSymbol": "GCK"
+                    }
+                  },
+                  {
+                    "score": 0.06579063832759857,
+                    "target": {
+                      "id": "ENSG00000106636",
+                      "approvedSymbol": "YKT6"
+                    }
+                  },
+                  {
+                    "score": 0.0649765357375145,
+                    "target": {
+                      "id": "ENSG00000106631",
+                      "approvedSymbol": "MYL7"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "8f158abd6083a411e67b48b0dffedbac",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90692780",
+                "studyType": "gwas",
+                "traitFromSource": "Glycated hemoglobin HbA1c levels"
+              },
+              "variant": {
+                "id": "7_44171111_C_T"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.5915814638137817,
+                    "target": {
+                      "id": "ENSG00000106633",
+                      "approvedSymbol": "GCK"
+                    }
+                  },
+                  {
+                    "score": 0.07176569104194641,
+                    "target": {
+                      "id": "ENSG00000106631",
+                      "approvedSymbol": "MYL7"
+                    }
+                  },
+                  {
+                    "score": 0.07176569104194641,
+                    "target": {
+                      "id": "ENSG00000106636",
+                      "approvedSymbol": "YKT6"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "ade024ca0b2a5734270f9101d138a8a4",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90014006",
+                "studyType": "gwas",
+                "traitFromSource": "Glycated haemoglobin HbA1c levels (UKB data field 30750)"
+              },
+              "variant": {
+                "id": "7_44171111_C_T"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.5864481925964355,
+                    "target": {
+                      "id": "ENSG00000106633",
+                      "approvedSymbol": "GCK"
+                    }
+                  },
+                  {
+                    "score": 0.06738458573818207,
+                    "target": {
+                      "id": "ENSG00000106631",
+                      "approvedSymbol": "MYL7"
+                    }
+                  },
+                  {
+                    "score": 0.06738458573818207,
+                    "target": {
+                      "id": "ENSG00000106636",
+                      "approvedSymbol": "YKT6"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "ead5e3ec6e3c9f96d140c69351799ba0",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90132724",
+                "studyType": "gwas",
+                "traitFromSource": "Glucose levels"
+              },
+              "variant": {
+                "id": "7_44180106_T_C"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.6865345239639282,
+                    "target": {
+                      "id": "ENSG00000106633",
+                      "approvedSymbol": "GCK"
+                    }
+                  },
+                  {
+                    "score": 0.09950287640094757,
+                    "target": {
+                      "id": "ENSG00000106636",
+                      "approvedSymbol": "YKT6"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "fc674c520377c7a51fd80d00882d10eb",
+              "confidence": "SuSiE fine-mapped credible set with in-sample LD",
+              "study": {
+                "id": "FINNGEN_R12_T2D",
+                "studyType": "gwas",
+                "traitFromSource": "Type 2 diabetes, definitions combined"
+              },
+              "variant": {
+                "id": "7_44176538_G_A"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.7648484110832214,
+                    "target": {
+                      "id": "ENSG00000106633",
+                      "approvedSymbol": "GCK"
+                    }
+                  },
+                  {
+                    "score": 0.14259997010231018,
+                    "target": {
+                      "id": "ENSG00000106636",
+                      "approvedSymbol": "YKT6"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "rs560887": {
+        "credibleSets": {
+          "count": 0,
+          "rows": []
+        }
+      },
+      "rs72805692": {
+        "credibleSets": {
+          "count": 214,
+          "rows": [
+            {
+              "studyLocusId": "003d885ab082e356800d608da29d563a",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90475712",
+                "studyType": "gwas",
+                "traitFromSource": "Intestinal disaccharidase deficiencies and disaccharide malabsorption (PheCode 271.3)"
+              },
+              "variant": {
+                "id": "10_69339353_A_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8185427784919739,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "0286c827c4362ac574e2b38107d9b72a",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST90475342",
+                "studyType": "gwas",
+                "traitFromSource": "hematocrit (minimum, inv-norm transformed)"
+              },
+              "variant": {
+                "id": "10_69334748_T_C"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8265475034713745,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "02962f9b50902885025c60edc34a3ede",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST90499213",
+                "studyType": "gwas",
+                "traitFromSource": "Omega-6 fatty acids"
+              },
+              "variant": {
+                "id": "10_69339353_A_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8010469675064087,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "02e511329944d1d7217b6dc9bd8bb1e7",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90446070",
+                "studyType": "gwas",
+                "traitFromSource": "Total free cholesterol levels (UKB data field 23419)"
+              },
+              "variant": {
+                "id": "10_69339353_A_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.6290529370307922,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "055f12d2fd161be24a94b8bcb43591b5",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90691568",
+                "studyType": "gwas",
+                "traitFromSource": "Apolipoprotein B levels"
+              },
+              "variant": {
+                "id": "10_69333636_C_T"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8316206932067871,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "06b07ef9975feae2319a3ca94b166709",
+              "confidence": "PICS fine-mapped credible set based on reported top hit",
+              "study": {
+                "id": "GCST90662894",
+                "studyType": "gwas",
+                "traitFromSource": "High-density lipoprotein levels"
+              },
+              "variant": {
+                "id": "10_69339353_A_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.6007944345474243,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  },
+                  {
+                    "score": 0.051618847995996475,
+                    "target": {
+                      "id": "ENSG00000099282",
+                      "approvedSymbol": "TSPAN15"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "082f5f984ba0b5ce291b5df8791ab4a6",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST90474374",
+                "studyType": "gwas",
+                "traitFromSource": "HDL cholesterol levels (UKB data field 30760)"
+              },
+              "variant": {
+                "id": "10_69339353_A_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8047577142715454,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "0c2484aafaa0d15c519632594809dc98",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90691817",
+                "studyType": "gwas",
+                "traitFromSource": "Platelet count (UKB data field 30080)"
+              },
+              "variant": {
+                "id": "10_69334748_T_C"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8373486399650574,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "0d5c55276b89bf6bba91f1b69c341b68",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST90479889",
+                "studyType": "gwas",
+                "traitFromSource": "Abnormal glucose (PheCode 250.4)"
+              },
+              "variant": {
+                "id": "10_69334748_T_C"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8118624091148376,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "0d88482ff37d7bdf5f754acc39b70d26",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90445931",
+                "studyType": "gwas",
+                "traitFromSource": "Phospholipids in large LDL (UKB data field 23532)"
+              },
+              "variant": {
+                "id": "10_69339353_A_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.6290529370307922,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "10920896d679838218e1a269a6129909",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90002388",
+                "studyType": "gwas",
+                "traitFromSource": "Lymphocyte count"
+              },
+              "variant": {
+                "id": "10_69347208_G_A"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8611012101173401,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "11f38818efa41acdfdb677bed6d2b3e5",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90445997",
+                "studyType": "gwas",
+                "traitFromSource": "Total cholesterol minus HDL-C levels (UKB data field 23401)"
+              },
+              "variant": {
+                "id": "10_69339353_A_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.6290529370307922,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "1240e4484d860e383a725d29065e22b8",
+              "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+              "study": {
+                "id": "GCST90499323",
+                "studyType": "gwas",
+                "traitFromSource": "Pyruvate levels"
+              },
+              "variant": {
+                "id": "10_69334748_T_C"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8118624091148376,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "1275084f5fb40deb3d2a25f1bcf3b276",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90691825",
+                "studyType": "gwas",
+                "traitFromSource": "Lymphocyte percentage (UKB data field 30180)"
+              },
+              "variant": {
+                "id": "10_69347208_G_A"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8815857172012329,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "studyLocusId": "12bba300d830c7165ca2cde630d11073",
+              "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+              "study": {
+                "id": "GCST90691821",
+                "studyType": "gwas",
+                "traitFromSource": "Lymphocyte count (UKB data field 30120)"
+              },
+              "variant": {
+                "id": "10_69340970_A_G"
+              },
+              "l2GPredictions": {
+                "rows": [
+                  {
+                    "score": 0.8187893033027649,
+                    "target": {
+                      "id": "ENSG00000156515",
+                      "approvedSymbol": "HK1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "_truncated": "(Showing 15 of 214 rows)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

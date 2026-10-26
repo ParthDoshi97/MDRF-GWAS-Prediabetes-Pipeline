@@ -1,0 +1,56 @@
+[
+  {
+    "median": 0.638388,
+    "tissueSiteDetailId": "Testis",
+    "ontologyId": "UBERON:0000473",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000134640.3",
+    "geneSymbol": "MTNR1B",
+    "unit": "TPM"
+  },
+  {
+    "median": 0.13454,
+    "tissueSiteDetailId": "Brain_Nucleus_accumbens_basal_ganglia",
+    "ontologyId": "UBERON:0001882",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000134640.3",
+    "geneSymbol": "MTNR1B",
+    "unit": "TPM"
+  },
+  {
+    "median": 0.038272,
+    "tissueSiteDetailId": "Brain_Caudate_basal_ganglia",
+    "ontologyId": "UBERON:0001873",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000134640.3",
+    "geneSymbol": "MTNR1B",
+    "unit": "TPM"
+  },
+  {
+    "median": 0.031225,
+    "tissueSiteDetailId": "Brain_Hypothalamus",
+    "ontologyId": "UBERON:0001898",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000134640.3",
+    "geneSymbol": "MTNR1B",
+    "unit": "TPM"
+  },
+  {
+    "median": 0.011491,
+    "tissueSiteDetailId": "Brain_Amygdala",
+    "ontologyId": "UBERON:0001876",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000134640.3",
+    "geneSymbol": "MTNR1B",
+    "unit": "TPM"
+  },
+  {
+    "median": 0.0,
+    "tissueSiteDetailId": "Adipose_Subcutaneous",
+    "ontologyId": "UBERON:0002190",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000134640.3",
+    "geneSymbol": "MTNR1B",
+    "unit": "TPM"
+  }
+]

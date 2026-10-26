@@ -1,0 +1,56 @@
+[
+  {
+    "median": 28.5566,
+    "tissueSiteDetailId": "Pituitary",
+    "ontologyId": "UBERON:0000007",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000106633.18",
+    "geneSymbol": "GCK",
+    "unit": "TPM"
+  },
+  {
+    "median": 6.07653,
+    "tissueSiteDetailId": "Brain_Cerebellum",
+    "ontologyId": "UBERON:0002037",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000106633.18",
+    "geneSymbol": "GCK",
+    "unit": "TPM"
+  },
+  {
+    "median": 6.0617,
+    "tissueSiteDetailId": "Brain_Cerebellar_Hemisphere",
+    "ontologyId": "UBERON:0002037",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000106633.18",
+    "geneSymbol": "GCK",
+    "unit": "TPM"
+  },
+  {
+    "median": 5.4838,
+    "tissueSiteDetailId": "Brain_Hypothalamus",
+    "ontologyId": "UBERON:0001898",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000106633.18",
+    "geneSymbol": "GCK",
+    "unit": "TPM"
+  },
+  {
+    "median": 2.45008,
+    "tissueSiteDetailId": "Heart_Atrial_Appendage",
+    "ontologyId": "UBERON:0006631",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000106633.18",
+    "geneSymbol": "GCK",
+    "unit": "TPM"
+  },
+  {
+    "median": 2.31365,
+    "tissueSiteDetailId": "Cervix_Endocervix",
+    "ontologyId": "UBERON:0000458",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000106633.18",
+    "geneSymbol": "GCK",
+    "unit": "TPM"
+  }
+]

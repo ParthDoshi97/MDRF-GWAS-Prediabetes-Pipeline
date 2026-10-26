@@ -1,0 +1,56 @@
+[
+  {
+    "median": 7.85376,
+    "tissueSiteDetailId": "Pancreas",
+    "ontologyId": "UBERON:0001150",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000152254.11",
+    "geneSymbol": "G6PC2",
+    "unit": "TPM"
+  },
+  {
+    "median": 2.69506,
+    "tissueSiteDetailId": "Testis",
+    "ontologyId": "UBERON:0000473",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000152254.11",
+    "geneSymbol": "G6PC2",
+    "unit": "TPM"
+  },
+  {
+    "median": 0.094986,
+    "tissueSiteDetailId": "Lung",
+    "ontologyId": "UBERON:0008952",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000152254.11",
+    "geneSymbol": "G6PC2",
+    "unit": "TPM"
+  },
+  {
+    "median": 0.081733,
+    "tissueSiteDetailId": "Skin_Sun_Exposed_Lower_leg",
+    "ontologyId": "UBERON:8480050",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000152254.11",
+    "geneSymbol": "G6PC2",
+    "unit": "TPM"
+  },
+  {
+    "median": 0.081154,
+    "tissueSiteDetailId": "Breast_Mammary_Tissue",
+    "ontologyId": "UBERON:0008367",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000152254.11",
+    "geneSymbol": "G6PC2",
+    "unit": "TPM"
+  },
+  {
+    "median": 0.080925,
+    "tissueSiteDetailId": "Minor_Salivary_Gland",
+    "ontologyId": "UBERON:0006330",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000152254.11",
+    "geneSymbol": "G6PC2",
+    "unit": "TPM"
+  }
+]

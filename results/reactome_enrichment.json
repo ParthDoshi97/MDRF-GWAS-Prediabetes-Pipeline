@@ -1,0 +1,1046 @@
+{
+  "summary": {
+    "token": "MjAyNjEwMjUxNTMyMzdfODc0MTY%3D",
+    "projection": true,
+    "interactors": false,
+    "type": "OVERREPRESENTATION",
+    "sampleName": "",
+    "text": true,
+    "includeDisease": true
+  },
+  "expression": {
+    "columnNames": []
+  },
+  "identifiersNotFound": 1,
+  "pathwaysFound": 37,
+  "pathways": [
+    {
+      "stId": "R-HSA-9615017",
+      "dbId": 9615017,
+      "name": "FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 49,
+        "found": 4,
+        "ratio": 0.0030151990646729433,
+        "pValue": 1.7107703809138286e-08,
+        "fdr": 9.067083018843292e-07,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 34,
+        "found": 4,
+        "ratio": 0.002113245074274349
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-9614085",
+      "dbId": 9614085,
+      "name": "FOXO-mediated transcription",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 110,
+        "found": 4,
+        "ratio": 0.006768814226816812,
+        "pValue": 4.267062739815586e-07,
+        "fdr": 1.1094363123520523e-05,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 85,
+        "found": 4,
+        "ratio": 0.005283112685685872
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-70326",
+      "dbId": 70326,
+      "name": "Glucose metabolism",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": false,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 131,
+        "found": 3,
+        "ratio": 0.00806104239739093,
+        "pValue": 6.024792241965393e-05,
+        "fdr": 0.0010242146811341168,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 40,
+        "found": 7,
+        "ratio": 0.0024861706756168812
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-210745",
+      "dbId": 210745,
+      "name": "Regulation of gene expression in beta cells",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 35,
+        "found": 2,
+        "ratio": 0.0021537136176235307,
+        "pValue": 0.00020634762275262286,
+        "fdr": 0.002682519095784097,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 12,
+        "found": 1,
+        "ratio": 0.0007458512026850643
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-186712",
+      "dbId": 186712,
+      "name": "Regulation of beta-cell development",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": false,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 67,
+        "found": 2,
+        "ratio": 0.004122823210879331,
+        "pValue": 0.0007482572153988398,
+        "fdr": 0.007482572153988398,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 26,
+        "found": 1,
+        "ratio": 0.0016160109391509727
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-5619073",
+      "dbId": 5619073,
+      "name": "Defective GCK causes maturity-onset diabetes of the young 2 (MODY2)",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 3,
+        "found": 1,
+        "ratio": 0.00018460402436773122,
+        "pValue": 0.0018445074592983168,
+        "fdr": 0.01214575641213056,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 1,
+        "found": 1,
+        "ratio": 6.215426689042202e-05
+      },
+      "inDisease": true
+    },
+    {
+      "stId": "R-HSA-5619056",
+      "dbId": 5619056,
+      "name": "Defective HK1 causes hexokinase deficiency (HK deficiency)",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 3,
+        "found": 1,
+        "ratio": 0.00018460402436773122,
+        "pValue": 0.0018445074592983168,
+        "fdr": 0.01214575641213056,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 1,
+        "found": 1,
+        "ratio": 6.215426689042202e-05
+      },
+      "inDisease": true
+    },
+    {
+      "stId": "R-HSA-70171",
+      "dbId": 70171,
+      "name": "Glycolysis",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 111,
+        "found": 2,
+        "ratio": 0.006830348901606055,
+        "pValue": 0.0020242927353550932,
+        "fdr": 0.01214575641213056,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 23,
+        "found": 6,
+        "ratio": 0.0014295481384797065
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-71387",
+      "dbId": 71387,
+      "name": "Metabolism of carbohydrates and carbohydrate derivatives",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": false,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 477,
+        "found": 3,
+        "ratio": 0.029352039874469264,
+        "pValue": 0.0025985738470785114,
+        "fdr": 0.012992869235392557,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 244,
+        "found": 7,
+        "ratio": 0.015165641121262974
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-5619102",
+      "dbId": 5619102,
+      "name": "SLC transporter disorders",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": false,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 185,
+        "found": 2,
+        "ratio": 0.011383914836010091,
+        "pValue": 0.005488030763411977,
+        "fdr": 0.022097356971021664,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 64,
+        "found": 3,
+        "ratio": 0.0039778730809870095
+      },
+      "inDisease": true
+    },
+    {
+      "stId": "R-HSA-111957",
+      "dbId": 111957,
+      "name": "Cam-PDE 1 activation",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 9,
+        "found": 1,
+        "ratio": 0.0005538120731031936,
+        "pValue": 0.005524339242755416,
+        "fdr": 0.022097356971021664,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 2,
+        "found": 2,
+        "ratio": 0.00012430853378084405
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-446205",
+      "dbId": 446205,
+      "name": "Synthesis of GDP-mannose",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 16,
+        "found": 1,
+        "ratio": 0.0009845547966278998,
+        "pValue": 0.0098020416277117,
+        "fdr": 0.023260535283500694,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 4,
+        "found": 1,
+        "ratio": 0.0002486170675616881
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-399956",
+      "dbId": 399956,
+      "name": "CRMPs in Sema3A signaling",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 18,
+        "found": 1,
+        "ratio": 0.0011076241462063873,
+        "pValue": 0.011021196804342215,
+        "fdr": 0.023260535283500694,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 5,
+        "found": 5,
+        "ratio": 0.00031077133445211015
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-5619115",
+      "dbId": 5619115,
+      "name": "Disorders of transmembrane transporters",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": false,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 267,
+        "found": 2,
+        "ratio": 0.01642975816872808,
+        "pValue": 0.011127482407064737,
+        "fdr": 0.023260535283500694,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 87,
+        "found": 3,
+        "ratio": 0.005407421219466716
+      },
+      "inDisease": true
+    },
+    {
+      "stId": "R-HSA-212436",
+      "dbId": 212436,
+      "name": "Generic Transcription Pathway",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 1574,
+        "found": 4,
+        "ratio": 0.09685557811826964,
+        "pValue": 0.01144243697076508,
+        "fdr": 0.023260535283500694,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 879,
+        "found": 4,
+        "ratio": 0.05463360059668096
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-399954",
+      "dbId": 399954,
+      "name": "Sema3A PAK dependent Axon repulsion",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 19,
+        "found": 1,
+        "ratio": 0.001169158820995631,
+        "pValue": 0.011630267641750347,
+        "fdr": 0.023260535283500694,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 6,
+        "found": 3,
+        "ratio": 0.00037292560134253216
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-416700",
+      "dbId": 416700,
+      "name": "Other semaphorin interactions",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 19,
+        "found": 1,
+        "ratio": 0.001169158820995631,
+        "pValue": 0.011630267641750347,
+        "fdr": 0.023260535283500694,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 9,
+        "found": 1,
+        "ratio": 0.0005593884020137983
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-399955",
+      "dbId": 399955,
+      "name": "SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 20,
+        "found": 1,
+        "ratio": 0.0012306934957848747,
+        "pValue": 0.012239000867148242,
+        "fdr": 0.024478001734296484,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 8,
+        "found": 6,
+        "ratio": 0.0004972341351233762
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-73857",
+      "dbId": 73857,
+      "name": "RNA Polymerase II Transcription",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": false,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 1678,
+        "found": 4,
+        "ratio": 0.103255184296351,
+        "pValue": 0.014304135420539321,
+        "fdr": 0.02674774613269748,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 939,
+        "found": 4,
+        "ratio": 0.05836285661010628
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-5619107",
+      "dbId": 5619107,
+      "name": "Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC)",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 36,
+        "found": 1,
+        "ratio": 0.0022152482924127745,
+        "pValue": 0.02193295276869245,
+        "fdr": 0.02674774613269748,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 1,
+        "found": 1,
+        "ratio": 6.215426689042202e-05
+      },
+      "inDisease": true
+    },
+    {
+      "stId": "R-HSA-74160",
+      "dbId": 74160,
+      "name": "Gene expression (Transcription)",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": false,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 1922,
+        "found": 4,
+        "ratio": 0.11826964494492646,
+        "pValue": 0.02279068498391812,
+        "fdr": 0.02674774613269748,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 1139,
+        "found": 4,
+        "ratio": 0.07079370998819069
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-170822",
+      "dbId": 170822,
+      "name": "Regulation of Glucokinase by Glucokinase Regulatory Protein",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 40,
+        "found": 1,
+        "ratio": 0.0024613869915697494,
+        "pValue": 0.02434302251965559,
+        "fdr": 0.02674774613269748,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 5,
+        "found": 5,
+        "ratio": 0.00031077133445211015
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-111933",
+      "dbId": 111933,
+      "name": "Calmodulin induced events",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 44,
+        "found": 1,
+        "ratio": 0.0027075256907267246,
+        "pValue": 0.02674774613269748,
+        "fdr": 0.02674774613269748,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 23,
+        "found": 2,
+        "ratio": 0.0014295481384797065
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-111997",
+      "dbId": 111997,
+      "name": "CaM pathway",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 44,
+        "found": 1,
+        "ratio": 0.0027075256907267246,
+        "pValue": 0.02674774613269748,
+        "fdr": 0.02674774613269748,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 24,
+        "found": 2,
+        "ratio": 0.0014917024053701287
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-418594",
+      "dbId": 418594,
+      "name": "G alpha (i) signalling events",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 428,
+        "found": 2,
+        "ratio": 0.02633684080979632,
+        "pValue": 0.02711967100944601,
+        "fdr": 0.02711967100944601,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 74,
+        "found": 5,
+        "ratio": 0.00459941574989123
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-111996",
+      "dbId": 111996,
+      "name": "Ca-dependent events",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 50,
+        "found": 1,
+        "ratio": 0.003076733739462187,
+        "pValue": 0.030344830603670547,
+        "fdr": 0.030344830603670547,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 27,
+        "found": 2,
+        "ratio": 0.0016781652060413948
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-1489509",
+      "dbId": 1489509,
+      "name": "DAG and IP3 signaling",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 54,
+        "found": 1,
+        "ratio": 0.003322872438619162,
+        "pValue": 0.03273623496208611,
+        "fdr": 0.03273623496208611,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 28,
+        "found": 2,
+        "ratio": 0.0017403194729318167
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-70263",
+      "dbId": 70263,
+      "name": "Gluconeogenesis",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 56,
+        "found": 1,
+        "ratio": 0.003445941788197649,
+        "pValue": 0.03392994549327999,
+        "fdr": 0.03392994549327999,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 17,
+        "found": 1,
+        "ratio": 0.0010566225371371745
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-112043",
+      "dbId": 112043,
+      "name": "PLC beta mediated events",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 69,
+        "found": 1,
+        "ratio": 0.0042458925604578176,
+        "pValue": 0.04165680073084599,
+        "fdr": 0.04165680073084599,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 32,
+        "found": 2,
+        "ratio": 0.0019889365404935047
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-373755",
+      "dbId": 373755,
+      "name": "Semaphorin interactions",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": false,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 71,
+        "found": 1,
+        "ratio": 0.004368961910036305,
+        "pValue": 0.04284059799915041,
+        "fdr": 0.04284059799915041,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 41,
+        "found": 15,
+        "ratio": 0.002548324942507303
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-112040",
+      "dbId": 112040,
+      "name": "G-protein mediated events",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 75,
+        "found": 1,
+        "ratio": 0.0046151006091932805,
+        "pValue": 0.04520424516512689,
+        "fdr": 0.04520424516512689,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 41,
+        "found": 2,
+        "ratio": 0.002548324942507303
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-913709",
+      "dbId": 913709,
+      "name": "O-linked glycosylation of mucins",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 76,
+        "found": 1,
+        "ratio": 0.004676635283982524,
+        "pValue": 0.04579433553609158,
+        "fdr": 0.04579433553609158,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 16,
+        "found": 1,
+        "ratio": 0.0009944682702467524
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-111885",
+      "dbId": 111885,
+      "name": "Opioid Signalling",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 115,
+        "found": 1,
+        "ratio": 0.00707648760076303,
+        "pValue": 0.06855342742528647,
+        "fdr": 0.06855342742528647,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 59,
+        "found": 2,
+        "ratio": 0.0036671017465348997
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-388396",
+      "dbId": 388396,
+      "name": "GPCR downstream signalling",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": false,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 795,
+        "found": 2,
+        "ratio": 0.04892006645744877,
+        "pValue": 0.08293466117382398,
+        "fdr": 0.08293466117382398,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 175,
+        "found": 5,
+        "ratio": 0.010876996705823854
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-446219",
+      "dbId": 446219,
+      "name": "Synthesis of substrates in N-glycan biosythesis",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 145,
+        "found": 1,
+        "ratio": 0.008922527844440342,
+        "pValue": 0.08572668427295671,
+        "fdr": 0.08572668427295671,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 52,
+        "found": 1,
+        "ratio": 0.0032320218783019453
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-5173105",
+      "dbId": 5173105,
+      "name": "O-linked glycosylation",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": true,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 154,
+        "found": 1,
+        "ratio": 0.009476339917543536,
+        "pValue": 0.09082279717141128,
+        "fdr": 0.09082279717141128,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 37,
+        "found": 1,
+        "ratio": 0.002299707874945615
+      },
+      "inDisease": false
+    },
+    {
+      "stId": "R-HSA-372790",
+      "dbId": 372790,
+      "name": "Signaling by GPCR",
+      "species": {
+        "dbId": 48887,
+        "taxId": "9606",
+        "name": "Homo sapiens"
+      },
+      "llp": false,
+      "entities": {
+        "resource": "TOTAL",
+        "total": 878,
+        "found": 2,
+        "ratio": 0.054027444464956005,
+        "pValue": 0.09843338186314288,
+        "fdr": 0.09843338186314288,
+        "exp": []
+      },
+      "reactions": {
+        "resource": "TOTAL",
+        "total": 394,
+        "found": 6,
+        "ratio": 0.024488781154826278
+      },
+      "inDisease": false
+    }
+  ],
+  "resourceSummary": [
+    {
+      "resource": "TOTAL",
+      "pathways": 50,
+      "filtered": 50
+    },
+    {
+      "resource": "UNIPROT",
+      "pathways": 50,
+      "filtered": 50
+    },
+    {
+      "resource": "ENSEMBL",
+      "pathways": 8,
+      "filtered": 8
+    }
+  ],
+  "speciesSummary": [
+    {
+      "dbId": 48887,
+      "taxId": "9606",
+      "name": "Homo sapiens",
+      "pathways": 50,
+      "filtered": 50
+    }
+  ],
+  "warnings": [
+    "Missing header. Using a default one."
+  ]
+}

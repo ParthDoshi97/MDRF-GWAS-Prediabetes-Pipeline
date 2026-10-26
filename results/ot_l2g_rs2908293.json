@@ -1,0 +1,498 @@
+{
+  "credibleSets": {
+    "count": 15,
+    "rows": [
+      {
+        "studyLocusId": "0778202c493dd59ef163fa0e85086048",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90449379",
+          "studyType": "gwas",
+          "traitFromSource": "Glucose levels"
+        },
+        "variant": {
+          "id": "7_44169723_G_A"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.5703338980674744,
+              "target": {
+                "id": "ENSG00000106633",
+                "approvedSymbol": "GCK"
+              }
+            },
+            {
+              "score": 0.06514253467321396,
+              "target": {
+                "id": "ENSG00000106636",
+                "approvedSymbol": "YKT6"
+              }
+            },
+            {
+              "score": 0.0527421236038208,
+              "target": {
+                "id": "ENSG00000106631",
+                "approvedSymbol": "MYL7"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "10a929ac067a673da38a62538b1a7583",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90019509",
+          "studyType": "gwas",
+          "traitFromSource": "Glycated hemoglobin levels"
+        },
+        "variant": {
+          "id": "7_44171111_C_T"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.5815592408180237,
+              "target": {
+                "id": "ENSG00000106633",
+                "approvedSymbol": "GCK"
+              }
+            },
+            {
+              "score": 0.07020611315965652,
+              "target": {
+                "id": "ENSG00000106636",
+                "approvedSymbol": "YKT6"
+              }
+            },
+            {
+              "score": 0.0581701397895813,
+              "target": {
+                "id": "ENSG00000106631",
+                "approvedSymbol": "MYL7"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "2098a730dc215ebab738249fc9fa5b54",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90019508",
+          "studyType": "gwas",
+          "traitFromSource": "Blood glucose levels"
+        },
+        "variant": {
+          "id": "7_44180106_T_C"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.7050079107284546,
+              "target": {
+                "id": "ENSG00000106633",
+                "approvedSymbol": "GCK"
+              }
+            },
+            {
+              "score": 0.08369752019643784,
+              "target": {
+                "id": "ENSG00000106636",
+                "approvedSymbol": "YKT6"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "2440cec40fc76392a9a18ff1d6eaabf4",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST90301964",
+          "studyType": "gwas",
+          "traitFromSource": "Glucose levels"
+        },
+        "variant": {
+          "id": "7_44179739_A_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.6845775842666626,
+              "target": {
+                "id": "ENSG00000106633",
+                "approvedSymbol": "GCK"
+              }
+            },
+            {
+              "score": 0.07469748705625534,
+              "target": {
+                "id": "ENSG00000106636",
+                "approvedSymbol": "YKT6"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "30ff04bb31dcbfecfd985365cdeb8b0f",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90691576",
+          "studyType": "gwas",
+          "traitFromSource": "Glycated hemoglobin HbA1c levels"
+        },
+        "variant": {
+          "id": "7_44171111_C_T"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.5915814638137817,
+              "target": {
+                "id": "ENSG00000106633",
+                "approvedSymbol": "GCK"
+              }
+            },
+            {
+              "score": 0.06738514453172684,
+              "target": {
+                "id": "ENSG00000106631",
+                "approvedSymbol": "MYL7"
+              }
+            },
+            {
+              "score": 0.06738514453172684,
+              "target": {
+                "id": "ENSG00000106636",
+                "approvedSymbol": "YKT6"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "3151c1c55fd39daccd3446d9b4880203",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST90480703",
+          "studyType": "gwas",
+          "traitFromSource": "Sodium (mean, inv-norm transformed)"
+        },
+        "variant": {
+          "id": "7_44171738_T_C"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.5392374992370605,
+              "target": {
+                "id": "ENSG00000106633",
+                "approvedSymbol": "GCK"
+              }
+            },
+            {
+              "score": 0.08139678835868835,
+              "target": {
+                "id": "ENSG00000106636",
+                "approvedSymbol": "YKT6"
+              }
+            },
+            {
+              "score": 0.06592703610658646,
+              "target": {
+                "id": "ENSG00000106631",
+                "approvedSymbol": "MYL7"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "39f7b9bd4bfa46348b81234749103162",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90271559",
+          "studyType": "gwas",
+          "traitFromSource": "Random glucose levels"
+        },
+        "variant": {
+          "id": "7_44171111_C_T"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.5815592408180237,
+              "target": {
+                "id": "ENSG00000106633",
+                "approvedSymbol": "GCK"
+              }
+            },
+            {
+              "score": 0.07153835147619247,
+              "target": {
+                "id": "ENSG00000106636",
+                "approvedSymbol": "YKT6"
+              }
+            },
+            {
+              "score": 0.06466341018676758,
+              "target": {
+                "id": "ENSG00000106631",
+                "approvedSymbol": "MYL7"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "3e17409d66378d0a26be771cfd8b5599",
+        "confidence": "SuSiE fine-mapped credible set with in-sample LD",
+        "study": {
+          "id": "gtex-v10_txrev_artery_tibial_ensg00000106624_grp_1_upstream_enst00000449162",
+          "studyType": "tuqtl",
+          "traitFromSource": "ENSG00000106624.grp_1.upstream.ENST00000449162"
+        },
+        "variant": {
+          "id": "7_44171738_T_C"
+        },
+        "l2GPredictions": {
+          "rows": []
+        }
+      },
+      {
+        "studyLocusId": "61758acef072877bec0fea97242f486f",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90476395",
+          "studyType": "gwas",
+          "traitFromSource": "Sodium (mean, inv-norm transformed)"
+        },
+        "variant": {
+          "id": "7_44180106_T_C"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.6865345239639282,
+              "target": {
+                "id": "ENSG00000106633",
+                "approvedSymbol": "GCK"
+              }
+            },
+            {
+              "score": 0.07857363671064377,
+              "target": {
+                "id": "ENSG00000106636",
+                "approvedSymbol": "YKT6"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "7017b8d3aee73d250d88016c2c03e98c",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST90476397",
+          "studyType": "gwas",
+          "traitFromSource": "sodium (minimum, inv-norm transformed)"
+        },
+        "variant": {
+          "id": "7_44180106_T_C"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.6712614893913269,
+              "target": {
+                "id": "ENSG00000106633",
+                "approvedSymbol": "GCK"
+              }
+            },
+            {
+              "score": 0.11393178999423981,
+              "target": {
+                "id": "ENSG00000106636",
+                "approvedSymbol": "YKT6"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "75f1e29a068474915dbbea188c973370",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90319641",
+          "studyType": "gwas",
+          "traitFromSource": "Serum glycated hemoglobin levels"
+        },
+        "variant": {
+          "id": "7_44171738_T_C"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.5813935399055481,
+              "target": {
+                "id": "ENSG00000106633",
+                "approvedSymbol": "GCK"
+              }
+            },
+            {
+              "score": 0.06579063832759857,
+              "target": {
+                "id": "ENSG00000106636",
+                "approvedSymbol": "YKT6"
+              }
+            },
+            {
+              "score": 0.0649765357375145,
+              "target": {
+                "id": "ENSG00000106631",
+                "approvedSymbol": "MYL7"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "8f158abd6083a411e67b48b0dffedbac",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90692780",
+          "studyType": "gwas",
+          "traitFromSource": "Glycated hemoglobin HbA1c levels"
+        },
+        "variant": {
+          "id": "7_44171111_C_T"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.5915814638137817,
+              "target": {
+                "id": "ENSG00000106633",
+                "approvedSymbol": "GCK"
+              }
+            },
+            {
+              "score": 0.07176569104194641,
+              "target": {
+                "id": "ENSG00000106631",
+                "approvedSymbol": "MYL7"
+              }
+            },
+            {
+              "score": 0.07176569104194641,
+              "target": {
+                "id": "ENSG00000106636",
+                "approvedSymbol": "YKT6"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "ade024ca0b2a5734270f9101d138a8a4",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90014006",
+          "studyType": "gwas",
+          "traitFromSource": "Glycated haemoglobin HbA1c levels (UKB data field 30750)"
+        },
+        "variant": {
+          "id": "7_44171111_C_T"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.5864481925964355,
+              "target": {
+                "id": "ENSG00000106633",
+                "approvedSymbol": "GCK"
+              }
+            },
+            {
+              "score": 0.06738458573818207,
+              "target": {
+                "id": "ENSG00000106631",
+                "approvedSymbol": "MYL7"
+              }
+            },
+            {
+              "score": 0.06738458573818207,
+              "target": {
+                "id": "ENSG00000106636",
+                "approvedSymbol": "YKT6"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "ead5e3ec6e3c9f96d140c69351799ba0",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90132724",
+          "studyType": "gwas",
+          "traitFromSource": "Glucose levels"
+        },
+        "variant": {
+          "id": "7_44180106_T_C"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.6865345239639282,
+              "target": {
+                "id": "ENSG00000106633",
+                "approvedSymbol": "GCK"
+              }
+            },
+            {
+              "score": 0.09950287640094757,
+              "target": {
+                "id": "ENSG00000106636",
+                "approvedSymbol": "YKT6"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "fc674c520377c7a51fd80d00882d10eb",
+        "confidence": "SuSiE fine-mapped credible set with in-sample LD",
+        "study": {
+          "id": "FINNGEN_R12_T2D",
+          "studyType": "gwas",
+          "traitFromSource": "Type 2 diabetes, definitions combined"
+        },
+        "variant": {
+          "id": "7_44176538_G_A"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.7648484110832214,
+              "target": {
+                "id": "ENSG00000106633",
+                "approvedSymbol": "GCK"
+              }
+            },
+            {
+              "score": 0.14259997010231018,
+              "target": {
+                "id": "ENSG00000106636",
+                "approvedSymbol": "YKT6"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

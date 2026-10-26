@@ -1,0 +1,56 @@
+[
+  {
+    "median": 178.552,
+    "tissueSiteDetailId": "Brain_Cerebellar_Hemisphere",
+    "ontologyId": "UBERON:0002037",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000156515.24",
+    "geneSymbol": "HK1",
+    "unit": "TPM"
+  },
+  {
+    "median": 160.519,
+    "tissueSiteDetailId": "Brain_Cerebellum",
+    "ontologyId": "UBERON:0002037",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000156515.24",
+    "geneSymbol": "HK1",
+    "unit": "TPM"
+  },
+  {
+    "median": 141.23,
+    "tissueSiteDetailId": "Esophagus_Mucosa",
+    "ontologyId": "UBERON:0006920",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000156515.24",
+    "geneSymbol": "HK1",
+    "unit": "TPM"
+  },
+  {
+    "median": 133.715,
+    "tissueSiteDetailId": "Artery_Aorta",
+    "ontologyId": "UBERON:0001496",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000156515.24",
+    "geneSymbol": "HK1",
+    "unit": "TPM"
+  },
+  {
+    "median": 131.45,
+    "tissueSiteDetailId": "Skin_Sun_Exposed_Lower_leg",
+    "ontologyId": "UBERON:8480050",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000156515.24",
+    "geneSymbol": "HK1",
+    "unit": "TPM"
+  },
+  {
+    "median": 124.914,
+    "tissueSiteDetailId": "Artery_Coronary",
+    "ontologyId": "UBERON:0001621",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000156515.24",
+    "geneSymbol": "HK1",
+    "unit": "TPM"
+  }
+]

@@ -1,0 +1,362 @@
+{
+  "credibleSets": {
+    "count": 214,
+    "rows": [
+      {
+        "studyLocusId": "003d885ab082e356800d608da29d563a",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90475712",
+          "studyType": "gwas",
+          "traitFromSource": "Intestinal disaccharidase deficiencies and disaccharide malabsorption (PheCode 271.3)"
+        },
+        "variant": {
+          "id": "10_69339353_A_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8185427784919739,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "0286c827c4362ac574e2b38107d9b72a",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST90475342",
+          "studyType": "gwas",
+          "traitFromSource": "hematocrit (minimum, inv-norm transformed)"
+        },
+        "variant": {
+          "id": "10_69334748_T_C"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8265475034713745,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "02962f9b50902885025c60edc34a3ede",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST90499213",
+          "studyType": "gwas",
+          "traitFromSource": "Omega-6 fatty acids"
+        },
+        "variant": {
+          "id": "10_69339353_A_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8010469675064087,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "02e511329944d1d7217b6dc9bd8bb1e7",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90446070",
+          "studyType": "gwas",
+          "traitFromSource": "Total free cholesterol levels (UKB data field 23419)"
+        },
+        "variant": {
+          "id": "10_69339353_A_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.6290529370307922,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "055f12d2fd161be24a94b8bcb43591b5",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90691568",
+          "studyType": "gwas",
+          "traitFromSource": "Apolipoprotein B levels"
+        },
+        "variant": {
+          "id": "10_69333636_C_T"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8316206932067871,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "06b07ef9975feae2319a3ca94b166709",
+        "confidence": "PICS fine-mapped credible set based on reported top hit",
+        "study": {
+          "id": "GCST90662894",
+          "studyType": "gwas",
+          "traitFromSource": "High-density lipoprotein levels"
+        },
+        "variant": {
+          "id": "10_69339353_A_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.6007944345474243,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            },
+            {
+              "score": 0.051618847995996475,
+              "target": {
+                "id": "ENSG00000099282",
+                "approvedSymbol": "TSPAN15"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "082f5f984ba0b5ce291b5df8791ab4a6",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST90474374",
+          "studyType": "gwas",
+          "traitFromSource": "HDL cholesterol levels (UKB data field 30760)"
+        },
+        "variant": {
+          "id": "10_69339353_A_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8047577142715454,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "0c2484aafaa0d15c519632594809dc98",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90691817",
+          "studyType": "gwas",
+          "traitFromSource": "Platelet count (UKB data field 30080)"
+        },
+        "variant": {
+          "id": "10_69334748_T_C"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8373486399650574,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "0d5c55276b89bf6bba91f1b69c341b68",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST90479889",
+          "studyType": "gwas",
+          "traitFromSource": "Abnormal glucose (PheCode 250.4)"
+        },
+        "variant": {
+          "id": "10_69334748_T_C"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8118624091148376,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "0d88482ff37d7bdf5f754acc39b70d26",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90445931",
+          "studyType": "gwas",
+          "traitFromSource": "Phospholipids in large LDL (UKB data field 23532)"
+        },
+        "variant": {
+          "id": "10_69339353_A_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.6290529370307922,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "10920896d679838218e1a269a6129909",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90002388",
+          "studyType": "gwas",
+          "traitFromSource": "Lymphocyte count"
+        },
+        "variant": {
+          "id": "10_69347208_G_A"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8611012101173401,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "11f38818efa41acdfdb677bed6d2b3e5",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90445997",
+          "studyType": "gwas",
+          "traitFromSource": "Total cholesterol minus HDL-C levels (UKB data field 23401)"
+        },
+        "variant": {
+          "id": "10_69339353_A_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.6290529370307922,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "1240e4484d860e383a725d29065e22b8",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST90499323",
+          "studyType": "gwas",
+          "traitFromSource": "Pyruvate levels"
+        },
+        "variant": {
+          "id": "10_69334748_T_C"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8118624091148376,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "1275084f5fb40deb3d2a25f1bcf3b276",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90691825",
+          "studyType": "gwas",
+          "traitFromSource": "Lymphocyte percentage (UKB data field 30180)"
+        },
+        "variant": {
+          "id": "10_69347208_G_A"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8815857172012329,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "12bba300d830c7165ca2cde630d11073",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90691821",
+          "studyType": "gwas",
+          "traitFromSource": "Lymphocyte count (UKB data field 30120)"
+        },
+        "variant": {
+          "id": "10_69340970_A_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8187893033027649,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "_truncated": "(Showing 15 of 214 rows)"
+      }
+    ]
+  }
+}

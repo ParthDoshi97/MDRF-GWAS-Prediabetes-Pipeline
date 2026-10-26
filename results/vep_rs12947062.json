@@ -1,0 +1,2525 @@
+[
+  {
+    "colocated_variants": [
+      {
+        "start": 82728494,
+        "strand": 1,
+        "seq_region_name": "17",
+        "allele_string": "A/C/G/T",
+        "id": "rs12947062",
+        "end": 82728494,
+        "frequencies": {
+          "C": {
+            "gnomadg_amr": 0,
+            "gnomadg_sas": 0,
+            "gnomadg_afr": 2.439e-05,
+            "gnomadg_fin": 0,
+            "gnomadg": 6.616e-06,
+            "gnomadg_mid": 0,
+            "gnomadg_nfe": 0,
+            "gnomadg_eas": 0,
+            "gnomadg_asj": 0,
+            "gnomadg_remaining": 0,
+            "gnomadg_ami": 0
+          },
+          "G": {
+            "amr": 0.5346,
+            "afr": 0.7489,
+            "eur": 0.6521,
+            "gnomadg_sas": 0.612,
+            "gnomadg_afr": 0.741,
+            "eas": 0.4702,
+            "gnomadg": 0.6849,
+            "gnomadg_eas": 0.5023,
+            "gnomadg_mid": 0.6379,
+            "sas": 0.6145,
+            "gnomadg_amr": 0.6093,
+            "gnomadg_fin": 0.7372,
+            "gnomadg_nfe": 0.6825,
+            "af": 0.6174,
+            "gnomadg_remaining": 0.6375,
+            "gnomadg_asj": 0.6344,
+            "gnomadg_ami": 0.7269
+          }
+        }
+      }
+    ],
+    "input": "rs12947062",
+    "seq_region_name": "17",
+    "assembly_name": "GRCh38",
+    "start": 82728494,
+    "most_severe_consequence": "intron_variant",
+    "strand": 1,
+    "transcript_consequences": [
+      {
+        "gene_symbol": "FN3KRP",
+        "gene_symbol_source": "HGNC",
+        "variant_allele": "C",
+        "transcript_id": "ENST00000269373",
+        "impact": "MODIFIER",
+        "biotype": "protein_coding",
+        "ptriplo": 0.489520991833754,
+        "distance": 481,
+        "phaplo": 0.384031427414276,
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          }
+        ],
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "conservation": -0.244,
+        "hgnc_id": "HGNC:25700"
+      },
+      {
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP",
+        "variant_allele": "G",
+        "ptriplo": 0.489520991833754,
+        "biotype": "protein_coding",
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00000269373",
+        "phaplo": 0.384031427414276,
+        "distance": 481,
+        "opentargets": [
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          },
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ],
+        "strand": 1,
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "gene_id": "ENSG00000141560",
+        "hgnc_id": "HGNC:25700",
+        "conservation": -0.244
+      },
+      {
+        "phaplo": 0.384031427414276,
+        "distance": 481,
+        "biotype": "protein_coding",
+        "ptriplo": 0.489520991833754,
+        "transcript_id": "ENST00000269373",
+        "impact": "MODIFIER",
+        "variant_allele": "T",
+        "gene_symbol": "FN3KRP",
+        "gene_symbol_source": "HGNC",
+        "hgnc_id": "HGNC:25700",
+        "conservation": -0.244,
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "gene_id": "ENSG00000141560",
+        "opentargets": [
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          }
+        ],
+        "strand": 1
+      },
+      {
+        "opentargets": [
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000263321"
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          },
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          }
+        ],
+        "strand": -1,
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "gene_id": "ENSG00000263321",
+        "variant_allele": "C",
+        "biotype": "lncRNA",
+        "transcript_id": "ENST00000570919",
+        "impact": "MODIFIER",
+        "distance": 670,
+        "conservation": -0.244
+      },
+      {
+        "variant_allele": "G",
+        "gene_id": "ENSG00000263321",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "strand": -1,
+        "opentargets": [
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000263321"
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue"
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ],
+        "distance": 670,
+        "conservation": -0.244,
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00000570919",
+        "biotype": "lncRNA"
+      },
+      {
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "gene_id": "ENSG00000263321",
+        "variant_allele": "T",
+        "opentargets": [
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body"
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ],
+        "strand": -1,
+        "distance": 670,
+        "conservation": -0.244,
+        "biotype": "lncRNA",
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00000570919"
+      },
+      {
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP",
+        "variant_allele": "C",
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00000571482",
+        "ptriplo": 0.489520991833754,
+        "biotype": "retained_intron",
+        "phaplo": 0.384031427414276,
+        "distance": 2001,
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium"
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body"
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          }
+        ],
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "conservation": -0.244,
+        "hgnc_id": "HGNC:25700"
+      },
+      {
+        "gene_symbol": "FN3KRP",
+        "gene_symbol_source": "HGNC",
+        "variant_allele": "G",
+        "transcript_id": "ENST00000571482",
+        "impact": "MODIFIER",
+        "biotype": "retained_intron",
+        "ptriplo": 0.489520991833754,
+        "phaplo": 0.384031427414276,
+        "distance": 2001,
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          }
+        ],
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "conservation": -0.244,
+        "hgnc_id": "HGNC:25700"
+      },
+      {
+        "transcript_id": "ENST00000571482",
+        "impact": "MODIFIER",
+        "ptriplo": 0.489520991833754,
+        "biotype": "retained_intron",
+        "distance": 2001,
+        "phaplo": 0.384031427414276,
+        "gene_symbol": "FN3KRP",
+        "gene_symbol_source": "HGNC",
+        "variant_allele": "T",
+        "conservation": -0.244,
+        "hgnc_id": "HGNC:25700",
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium"
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body"
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          }
+        ],
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ]
+      },
+      {
+        "hgnc_id": "HGNC:25700",
+        "flags": [
+          "cds_start_NF"
+        ],
+        "conservation": -0.244,
+        "consequence_terms": [
+          "intron_variant",
+          "NMD_transcript_variant"
+        ],
+        "gene_id": "ENSG00000141560",
+        "opentargets": [
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ],
+        "strand": 1,
+        "phaplo": 0.384031427414276,
+        "biotype": "nonsense_mediated_decay",
+        "ptriplo": 0.489520991833754,
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00000571594",
+        "variant_allele": "C",
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP"
+      },
+      {
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00000571594",
+        "biotype": "nonsense_mediated_decay",
+        "ptriplo": 0.489520991833754,
+        "phaplo": 0.384031427414276,
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP",
+        "variant_allele": "G",
+        "flags": [
+          "cds_start_NF"
+        ],
+        "conservation": -0.244,
+        "hgnc_id": "HGNC:25700",
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ],
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "intron_variant",
+          "NMD_transcript_variant"
+        ]
+      },
+      {
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ],
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "intron_variant",
+          "NMD_transcript_variant"
+        ],
+        "conservation": -0.244,
+        "flags": [
+          "cds_start_NF"
+        ],
+        "hgnc_id": "HGNC:25700",
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP",
+        "variant_allele": "T",
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00000571594",
+        "ptriplo": 0.489520991833754,
+        "biotype": "nonsense_mediated_decay",
+        "phaplo": 0.384031427414276
+      },
+      {
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body"
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ],
+        "conservation": -0.244,
+        "flags": [
+          "cds_end_NF"
+        ],
+        "hgnc_id": "HGNC:25700",
+        "variant_allele": "C",
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP",
+        "phaplo": 0.384031427414276,
+        "distance": 1351,
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00000573158",
+        "biotype": "protein_coding",
+        "ptriplo": 0.489520991833754
+      },
+      {
+        "variant_allele": "G",
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP",
+        "phaplo": 0.384031427414276,
+        "distance": 1351,
+        "ptriplo": 0.489520991833754,
+        "biotype": "protein_coding",
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00000573158",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "gene_id": "ENSG00000141560",
+        "opentargets": [
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ],
+        "strand": 1,
+        "hgnc_id": "HGNC:25700",
+        "flags": [
+          "cds_end_NF"
+        ],
+        "conservation": -0.244
+      },
+      {
+        "flags": [
+          "cds_end_NF"
+        ],
+        "conservation": -0.244,
+        "hgnc_id": "HGNC:25700",
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue"
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ],
+        "phaplo": 0.384031427414276,
+        "distance": 1351,
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00000573158",
+        "ptriplo": 0.489520991833754,
+        "biotype": "protein_coding",
+        "variant_allele": "T",
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP"
+      },
+      {
+        "distance": 1588,
+        "phaplo": 0.384031427414276,
+        "transcript_id": "ENST00000574206",
+        "impact": "MODIFIER",
+        "ptriplo": 0.489520991833754,
+        "biotype": "nonsense_mediated_decay",
+        "variant_allele": "C",
+        "gene_symbol": "FN3KRP",
+        "gene_symbol_source": "HGNC",
+        "flags": [
+          "cds_start_NF"
+        ],
+        "conservation": -0.244,
+        "hgnc_id": "HGNC:25700",
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000263321"
+          },
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          }
+        ]
+      },
+      {
+        "flags": [
+          "cds_start_NF"
+        ],
+        "conservation": -0.244,
+        "hgnc_id": "HGNC:25700",
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          }
+        ],
+        "distance": 1588,
+        "phaplo": 0.384031427414276,
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00000574206",
+        "biotype": "nonsense_mediated_decay",
+        "ptriplo": 0.489520991833754,
+        "variant_allele": "G",
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP"
+      },
+      {
+        "hgnc_id": "HGNC:25700",
+        "conservation": -0.244,
+        "flags": [
+          "cds_start_NF"
+        ],
+        "opentargets": [
+          {
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          }
+        ],
+        "strand": 1,
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "gene_id": "ENSG00000141560",
+        "biotype": "nonsense_mediated_decay",
+        "ptriplo": 0.489520991833754,
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00000574206",
+        "distance": 1588,
+        "phaplo": 0.384031427414276,
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP",
+        "variant_allele": "T"
+      },
+      {
+        "ptriplo": 0.489520991833754,
+        "biotype": "nonsense_mediated_decay",
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00000574356",
+        "distance": 1578,
+        "phaplo": 0.384031427414276,
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP",
+        "variant_allele": "C",
+        "hgnc_id": "HGNC:25700",
+        "conservation": -0.244,
+        "opentargets": [
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium"
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          }
+        ],
+        "strand": 1,
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "gene_id": "ENSG00000141560"
+      },
+      {
+        "biotype": "nonsense_mediated_decay",
+        "ptriplo": 0.489520991833754,
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00000574356",
+        "distance": 1578,
+        "phaplo": 0.384031427414276,
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP",
+        "variant_allele": "G",
+        "hgnc_id": "HGNC:25700",
+        "conservation": -0.244,
+        "opentargets": [
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_qtlGeneId": "ENSG00000263321"
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ],
+        "strand": 1,
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "gene_id": "ENSG00000141560"
+      },
+      {
+        "biotype": "nonsense_mediated_decay",
+        "ptriplo": 0.489520991833754,
+        "transcript_id": "ENST00000574356",
+        "impact": "MODIFIER",
+        "phaplo": 0.384031427414276,
+        "distance": 1578,
+        "gene_symbol": "FN3KRP",
+        "gene_symbol_source": "HGNC",
+        "variant_allele": "T",
+        "hgnc_id": "HGNC:25700",
+        "conservation": -0.244,
+        "opentargets": [
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          }
+        ],
+        "strand": 1,
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "gene_id": "ENSG00000141560"
+      },
+      {
+        "hgnc_id": "HGNC:25700",
+        "conservation": -0.244,
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "gene_id": "ENSG00000141560",
+        "opentargets": [
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_qtlGeneId": "ENSG00000263321"
+          },
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          }
+        ],
+        "strand": 1,
+        "distance": 993,
+        "phaplo": 0.384031427414276,
+        "biotype": "nonsense_mediated_decay",
+        "ptriplo": 0.489520991833754,
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00000574832",
+        "variant_allele": "C",
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP"
+      },
+      {
+        "distance": 993,
+        "phaplo": 0.384031427414276,
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00000574832",
+        "biotype": "nonsense_mediated_decay",
+        "ptriplo": 0.489520991833754,
+        "variant_allele": "G",
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP",
+        "conservation": -0.244,
+        "hgnc_id": "HGNC:25700",
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          }
+        ]
+      },
+      {
+        "conservation": -0.244,
+        "hgnc_id": "HGNC:25700",
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ],
+        "distance": 993,
+        "phaplo": 0.384031427414276,
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00000574832",
+        "ptriplo": 0.489520991833754,
+        "biotype": "nonsense_mediated_decay",
+        "variant_allele": "T",
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP"
+      },
+      {
+        "opentargets": [
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          }
+        ],
+        "strand": 1,
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "gene_id": "ENSG00000141560",
+        "hgnc_id": "HGNC:25700",
+        "conservation": -0.244,
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP",
+        "variant_allele": "C",
+        "biotype": "retained_intron",
+        "ptriplo": 0.489520991833754,
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00000576363",
+        "distance": 1397,
+        "phaplo": 0.384031427414276
+      },
+      {
+        "conservation": -0.244,
+        "hgnc_id": "HGNC:25700",
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium"
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ],
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "transcript_id": "ENST00000576363",
+        "impact": "MODIFIER",
+        "ptriplo": 0.489520991833754,
+        "biotype": "retained_intron",
+        "distance": 1397,
+        "phaplo": 0.384031427414276,
+        "gene_symbol": "FN3KRP",
+        "gene_symbol_source": "HGNC",
+        "variant_allele": "G"
+      },
+      {
+        "hgnc_id": "HGNC:25700",
+        "conservation": -0.244,
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "gene_id": "ENSG00000141560",
+        "opentargets": [
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000263321"
+          },
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue"
+          },
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          }
+        ],
+        "strand": 1,
+        "phaplo": 0.384031427414276,
+        "distance": 1397,
+        "ptriplo": 0.489520991833754,
+        "biotype": "retained_intron",
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00000576363",
+        "variant_allele": "T",
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP"
+      },
+      {
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00000577128",
+        "ptriplo": 0.489520991833754,
+        "biotype": "protein_coding",
+        "phaplo": 0.384031427414276,
+        "distance": 1381,
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP",
+        "variant_allele": "C",
+        "conservation": -0.244,
+        "flags": [
+          "cds_end_NF"
+        ],
+        "hgnc_id": "HGNC:25700",
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          }
+        ],
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ]
+      },
+      {
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "gene_id": "ENSG00000141560",
+        "opentargets": [
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_qtlGeneId": "ENSG00000263321"
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ],
+        "strand": 1,
+        "hgnc_id": "HGNC:25700",
+        "conservation": -0.244,
+        "flags": [
+          "cds_end_NF"
+        ],
+        "variant_allele": "G",
+        "gene_symbol": "FN3KRP",
+        "gene_symbol_source": "HGNC",
+        "phaplo": 0.384031427414276,
+        "distance": 1381,
+        "biotype": "protein_coding",
+        "ptriplo": 0.489520991833754,
+        "transcript_id": "ENST00000577128",
+        "impact": "MODIFIER"
+      },
+      {
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP",
+        "variant_allele": "T",
+        "ptriplo": 0.489520991833754,
+        "biotype": "protein_coding",
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00000577128",
+        "phaplo": 0.384031427414276,
+        "distance": 1381,
+        "opentargets": [
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          }
+        ],
+        "strand": 1,
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "gene_id": "ENSG00000141560",
+        "hgnc_id": "HGNC:25700",
+        "flags": [
+          "cds_end_NF"
+        ],
+        "conservation": -0.244
+      },
+      {
+        "variant_allele": "C",
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP",
+        "phaplo": 0.384031427414276,
+        "distance": 510,
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00000910132",
+        "biotype": "protein_coding",
+        "ptriplo": 0.489520991833754,
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body"
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          }
+        ],
+        "conservation": -0.244,
+        "hgnc_id": "HGNC:25700"
+      },
+      {
+        "hgnc_id": "HGNC:25700",
+        "conservation": -0.244,
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "gene_id": "ENSG00000141560",
+        "opentargets": [
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body"
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          }
+        ],
+        "strand": 1,
+        "distance": 510,
+        "phaplo": 0.384031427414276,
+        "biotype": "protein_coding",
+        "ptriplo": 0.489520991833754,
+        "transcript_id": "ENST00000910132",
+        "impact": "MODIFIER",
+        "variant_allele": "G",
+        "gene_symbol": "FN3KRP",
+        "gene_symbol_source": "HGNC"
+      },
+      {
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          }
+        ],
+        "conservation": -0.244,
+        "hgnc_id": "HGNC:25700",
+        "variant_allele": "T",
+        "gene_symbol": "FN3KRP",
+        "gene_symbol_source": "HGNC",
+        "phaplo": 0.384031427414276,
+        "distance": 510,
+        "transcript_id": "ENST00000910132",
+        "impact": "MODIFIER",
+        "ptriplo": 0.489520991833754,
+        "biotype": "protein_coding"
+      },
+      {
+        "gene_symbol": "FN3KRP",
+        "gene_symbol_source": "HGNC",
+        "variant_allele": "C",
+        "transcript_id": "ENST00001008024",
+        "impact": "MODIFIER",
+        "ptriplo": 0.489520991833754,
+        "biotype": "nonsense_mediated_decay",
+        "distance": 481,
+        "phaplo": 0.384031427414276,
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium"
+          },
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          }
+        ],
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "conservation": -0.244,
+        "hgnc_id": "HGNC:25700"
+      },
+      {
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP",
+        "variant_allele": "G",
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00001008024",
+        "biotype": "nonsense_mediated_decay",
+        "ptriplo": 0.489520991833754,
+        "phaplo": 0.384031427414276,
+        "distance": 481,
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          }
+        ],
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "conservation": -0.244,
+        "hgnc_id": "HGNC:25700"
+      },
+      {
+        "hgnc_id": "HGNC:25700",
+        "conservation": -0.244,
+        "opentargets": [
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ],
+        "strand": 1,
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "gene_id": "ENSG00000141560",
+        "ptriplo": 0.489520991833754,
+        "biotype": "nonsense_mediated_decay",
+        "transcript_id": "ENST00001008024",
+        "impact": "MODIFIER",
+        "distance": 481,
+        "phaplo": 0.384031427414276,
+        "gene_symbol": "FN3KRP",
+        "gene_symbol_source": "HGNC",
+        "variant_allele": "T"
+      },
+      {
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP",
+        "variant_allele": "C",
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00001008026",
+        "ptriplo": 0.489520991833754,
+        "biotype": "nonsense_mediated_decay",
+        "distance": 481,
+        "phaplo": 0.384031427414276,
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          }
+        ],
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "conservation": -0.244,
+        "hgnc_id": "HGNC:25700"
+      },
+      {
+        "distance": 481,
+        "phaplo": 0.384031427414276,
+        "transcript_id": "ENST00001008026",
+        "impact": "MODIFIER",
+        "ptriplo": 0.489520991833754,
+        "biotype": "nonsense_mediated_decay",
+        "variant_allele": "G",
+        "gene_symbol": "FN3KRP",
+        "gene_symbol_source": "HGNC",
+        "conservation": -0.244,
+        "hgnc_id": "HGNC:25700",
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ]
+      },
+      {
+        "distance": 481,
+        "phaplo": 0.384031427414276,
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00001008026",
+        "biotype": "nonsense_mediated_decay",
+        "ptriplo": 0.489520991833754,
+        "variant_allele": "T",
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP",
+        "conservation": -0.244,
+        "hgnc_id": "HGNC:25700",
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          }
+        ]
+      },
+      {
+        "opentargets": [
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          }
+        ],
+        "strand": 1,
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "gene_id": "ENSG00000141560",
+        "hgnc_id": "HGNC:25700",
+        "conservation": -0.244,
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP",
+        "variant_allele": "C",
+        "biotype": "nonsense_mediated_decay",
+        "ptriplo": 0.489520991833754,
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00001039979",
+        "phaplo": 0.384031427414276,
+        "distance": 481
+      },
+      {
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00001039979",
+        "biotype": "nonsense_mediated_decay",
+        "ptriplo": 0.489520991833754,
+        "phaplo": 0.384031427414276,
+        "distance": 481,
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP",
+        "variant_allele": "G",
+        "conservation": -0.244,
+        "hgnc_id": "HGNC:25700",
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_qtlGeneId": "ENSG00000263321"
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          }
+        ],
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ]
+      },
+      {
+        "distance": 481,
+        "phaplo": 0.384031427414276,
+        "ptriplo": 0.489520991833754,
+        "biotype": "nonsense_mediated_decay",
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00001039979",
+        "variant_allele": "T",
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP",
+        "hgnc_id": "HGNC:25700",
+        "conservation": -0.244,
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "gene_id": "ENSG00000141560",
+        "opentargets": [
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_qtlGeneId": "ENSG00000263321"
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          }
+        ],
+        "strand": 1
+      },
+      {
+        "hgnc_id": "HGNC:25700",
+        "conservation": -0.244,
+        "opentargets": [
+          {
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ],
+        "strand": 1,
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "gene_id": "ENSG00000141560",
+        "biotype": "nonsense_mediated_decay",
+        "ptriplo": 0.489520991833754,
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00001039987",
+        "phaplo": 0.384031427414276,
+        "distance": 481,
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP",
+        "variant_allele": "C"
+      },
+      {
+        "ptriplo": 0.489520991833754,
+        "biotype": "nonsense_mediated_decay",
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00001039987",
+        "distance": 481,
+        "phaplo": 0.384031427414276,
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP",
+        "variant_allele": "G",
+        "hgnc_id": "HGNC:25700",
+        "conservation": -0.244,
+        "opentargets": [
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue"
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad"
+          }
+        ],
+        "strand": 1,
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "gene_id": "ENSG00000141560"
+      },
+      {
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_qtlGeneId": "ENSG00000263321"
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          }
+        ],
+        "conservation": -0.244,
+        "hgnc_id": "HGNC:25700",
+        "variant_allele": "T",
+        "gene_symbol": "FN3KRP",
+        "gene_symbol_source": "HGNC",
+        "distance": 481,
+        "phaplo": 0.384031427414276,
+        "transcript_id": "ENST00001039987",
+        "impact": "MODIFIER",
+        "ptriplo": 0.489520991833754,
+        "biotype": "nonsense_mediated_decay"
+      },
+      {
+        "consequence_terms": [
+          "intron_variant"
+        ],
+        "variant_allele": "C",
+        "gene_id": "ENSG00000141560",
+        "gene_symbol_source": "HGNC",
+        "opentargets": [
+          {
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue"
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          }
+        ],
+        "gene_symbol": "FN3KRP",
+        "strand": 1,
+        "hgnc_id": "HGNC:25700",
+        "phaplo": 0.384031427414276,
+        "conservation": -0.244,
+        "biotype": "protein_coding",
+        "ptriplo": 0.489520991833754,
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00001076697"
+      },
+      {
+        "opentargets": [
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ],
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP",
+        "strand": 1,
+        "consequence_terms": [
+          "intron_variant"
+        ],
+        "variant_allele": "G",
+        "gene_id": "ENSG00000141560",
+        "biotype": "protein_coding",
+        "ptriplo": 0.489520991833754,
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00001076697",
+        "hgnc_id": "HGNC:25700",
+        "phaplo": 0.384031427414276,
+        "conservation": -0.244
+      },
+      {
+        "biotype": "protein_coding",
+        "ptriplo": 0.489520991833754,
+        "transcript_id": "ENST00001076697",
+        "impact": "MODIFIER",
+        "hgnc_id": "HGNC:25700",
+        "phaplo": 0.384031427414276,
+        "conservation": -0.244,
+        "gene_symbol": "FN3KRP",
+        "gene_symbol_source": "HGNC",
+        "opentargets": [
+          {
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ],
+        "strand": 1,
+        "consequence_terms": [
+          "intron_variant"
+        ],
+        "variant_allele": "T",
+        "gene_id": "ENSG00000141560"
+      },
+      {
+        "phaplo": 0.384031427414276,
+        "distance": 481,
+        "biotype": "protein_coding",
+        "ptriplo": 0.489520991833754,
+        "transcript_id": "ENST00001137202",
+        "impact": "MODIFIER",
+        "variant_allele": "C",
+        "gene_symbol": "FN3KRP",
+        "gene_symbol_source": "HGNC",
+        "hgnc_id": "HGNC:25700",
+        "conservation": -0.244,
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "gene_id": "ENSG00000141560",
+        "opentargets": [
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": ""
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          }
+        ],
+        "strand": 1
+      },
+      {
+        "conservation": -0.244,
+        "hgnc_id": "HGNC:25700",
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560"
+          }
+        ],
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "transcript_id": "ENST00001137202",
+        "impact": "MODIFIER",
+        "biotype": "protein_coding",
+        "ptriplo": 0.489520991833754,
+        "phaplo": 0.384031427414276,
+        "distance": 481,
+        "gene_symbol": "FN3KRP",
+        "gene_symbol_source": "HGNC",
+        "variant_allele": "G"
+      },
+      {
+        "variant_allele": "T",
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "FN3KRP",
+        "distance": 481,
+        "phaplo": 0.384031427414276,
+        "impact": "MODIFIER",
+        "transcript_id": "ENST00001137202",
+        "ptriplo": 0.489520991833754,
+        "biotype": "protein_coding",
+        "gene_id": "ENSG00000141560",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "esophagus squamous epithelium",
+            "OpenTargets_qtlGeneId": "ENSG00000263321",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "skin of body",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          },
+          {
+            "OpenTargets_qtlBiosampleName": "adipose tissue",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": ""
+          },
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000141560",
+            "OpenTargets_qtlBiosampleName": "omental fat pad",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          }
+        ],
+        "conservation": -0.244,
+        "hgnc_id": "HGNC:25700"
+      }
+    ],
+    "id": "rs12947062",
+    "end": 82728494,
+    "allele_string": "A/C/G/T"
+  }
+]

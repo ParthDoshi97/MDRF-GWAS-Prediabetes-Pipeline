@@ -1,0 +1,362 @@
+{
+  "credibleSets": {
+    "count": 212,
+    "rows": [
+      {
+        "studyLocusId": "00250aa6ce26a06cfa68162c49787bbf",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST005186",
+          "studyType": "gwas",
+          "traitFromSource": "Fasting blood glucose"
+        },
+        "variant": {
+          "id": "11_92975544_C_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8653802871704102,
+              "target": {
+                "id": "ENSG00000134640",
+                "approvedSymbol": "MTNR1B"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "006f88f3d1d66005128b1a895c9d6db6",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90692860",
+          "studyType": "gwas",
+          "traitFromSource": "Diabetes diagnosed by doctor (UKB data field 2443)"
+        },
+        "variant": {
+          "id": "11_92975544_C_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8653802871704102,
+              "target": {
+                "id": "ENSG00000134640",
+                "approvedSymbol": "MTNR1B"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "01084dc449ff89f017ebe62f722cd2d6",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90296698",
+          "studyType": "gwas",
+          "traitFromSource": "Type 2 diabetes"
+        },
+        "variant": {
+          "id": "11_92975544_C_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8653802871704102,
+              "target": {
+                "id": "ENSG00000134640",
+                "approvedSymbol": "MTNR1B"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "0426d1d63868d4bf6563ffae60415c22",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST90501329",
+          "studyType": "gwas",
+          "traitFromSource": "Triglycerides to Total Lipids in Very Small VLDL percentage"
+        },
+        "variant": {
+          "id": "11_92975544_C_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.9291749596595764,
+              "target": {
+                "id": "ENSG00000134640",
+                "approvedSymbol": "MTNR1B"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "05300e977d0c6bb668d5fb48337a3ab8",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST004489",
+          "studyType": "gwas",
+          "traitFromSource": "Insulin disposition index"
+        },
+        "variant": {
+          "id": "11_92975544_C_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8812732100486755,
+              "target": {
+                "id": "ENSG00000134640",
+                "approvedSymbol": "MTNR1B"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "06afbb9666d8f98644805822b96fe6a8",
+        "confidence": "PICS fine-mapped credible set based on reported top hit",
+        "study": {
+          "id": "GCST90557999",
+          "studyType": "gwas",
+          "traitFromSource": "Gestational diabetes mellitus"
+        },
+        "variant": {
+          "id": "11_92975544_C_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8908105492591858,
+              "target": {
+                "id": "ENSG00000134640",
+                "approvedSymbol": "MTNR1B"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "087fa45deb5b9512d80ef95988264b55",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST90501259",
+          "studyType": "gwas",
+          "traitFromSource": "Cholesterol to Total Lipids in Small VLDL percentage"
+        },
+        "variant": {
+          "id": "11_92975544_C_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8991038799285889,
+              "target": {
+                "id": "ENSG00000134640",
+                "approvedSymbol": "MTNR1B"
+              }
+            },
+            {
+              "score": 0.05078546702861786,
+              "target": {
+                "id": "ENSG00000180773",
+                "approvedSymbol": "SLC36A4"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "0946d4a66f053f7ac67356a2c683ff1c",
+        "confidence": "PICS fine-mapped credible set based on reported top hit",
+        "study": {
+          "id": "GCST90292476",
+          "studyType": "gwas",
+          "traitFromSource": "Pulse pressure"
+        },
+        "variant": {
+          "id": "11_92975544_C_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.9303500056266785,
+              "target": {
+                "id": "ENSG00000134640",
+                "approvedSymbol": "MTNR1B"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "095fdc36f8b29e4305b5f1c5437501bf",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90278632",
+          "studyType": "gwas",
+          "traitFromSource": "Hemoglobin A1c levels"
+        },
+        "variant": {
+          "id": "11_92975544_C_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8987975716590881,
+              "target": {
+                "id": "ENSG00000134640",
+                "approvedSymbol": "MTNR1B"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "0cd519924bf502690db891692c109143",
+        "confidence": "PICS fine-mapped credible set based on reported top hit",
+        "study": {
+          "id": "GCST001391",
+          "studyType": "gwas",
+          "traitFromSource": "Metabolite levels"
+        },
+        "variant": {
+          "id": "11_92975544_C_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.9319934844970703,
+              "target": {
+                "id": "ENSG00000134640",
+                "approvedSymbol": "MTNR1B"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "0d3889a5af13637b437bd2b29c21998e",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST90500713",
+          "studyType": "gwas",
+          "traitFromSource": "Cholesterol to Total Lipids in Very Small VLDL percentage"
+        },
+        "variant": {
+          "id": "11_92975544_C_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.9182549715042114,
+              "target": {
+                "id": "ENSG00000134640",
+                "approvedSymbol": "MTNR1B"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "0d8f41a3c30e8ba9e26a57f74b21a375",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST90501319",
+          "studyType": "gwas",
+          "traitFromSource": "Cholesterol to Total Lipids in Very Small VLDL percentage"
+        },
+        "variant": {
+          "id": "11_92975544_C_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.9327647686004639,
+              "target": {
+                "id": "ENSG00000134640",
+                "approvedSymbol": "MTNR1B"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "0fcda5ad7cad25edb720e1358f1f5f67",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST90497660",
+          "studyType": "gwas",
+          "traitFromSource": "Triglycerides to Total Lipids in IDL percentage"
+        },
+        "variant": {
+          "id": "11_92975544_C_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8991038799285889,
+              "target": {
+                "id": "ENSG00000134640",
+                "approvedSymbol": "MTNR1B"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "1097f46ae3859fab6488be7119521e27",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90475683",
+          "studyType": "gwas",
+          "traitFromSource": "Impaired fasting glucose (PheCode 250.41)"
+        },
+        "variant": {
+          "id": "11_92975544_C_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8653802871704102,
+              "target": {
+                "id": "ENSG00000134640",
+                "approvedSymbol": "MTNR1B"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "10b7b54902348e842e0d081520578bad",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90475682",
+          "studyType": "gwas",
+          "traitFromSource": "Abnormal glucose (PheCode 250.4)"
+        },
+        "variant": {
+          "id": "11_92975544_C_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8653802871704102,
+              "target": {
+                "id": "ENSG00000134640",
+                "approvedSymbol": "MTNR1B"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "_truncated": "(Showing 15 of 212 rows)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "GCST90502762": {
+    "gcst_id": "GCST90502762",
+    "trait_name": "Prediabetes (Unadjusted for BMI)",
+    "total_variants": 8490370,
+    "columns": [
+      "chromosome",
+      "base_pair_location",
+      "effect_allele",
+      "other_allele",
+      "beta",
+      "standard_error",
+      "effect_allele_frequency",
+      "p_value",
+      "rs_id"
+    ],
+    "missing_values": {
+      "chromosome": 0,
+      "base_pair_location": 0,
+      "effect_allele": 0,
+      "other_allele": 0,
+      "beta": 0,
+      "standard_error": 0,
+      "effect_allele_frequency": 0,
+      "p_value": 0,
+      "rs_id": 0
+    },
+    "chromosomes": {
+      "1": 660609,
+      "2": 707570,
+      "3": 612230,
+      "4": 625103,
+      "5": 549195,
+      "6": 556460,
+      "7": 481915,
+      "8": 458350,
+      "9": 373639,
+      "10": 440737,
+      "11": 422522,
+      "12": 409787,
+      "13": 321288,
+      "14": 276450,
+      "15": 238697,
+      "16": 259616,
+      "18": 240239,
+      "17": 227801,
+      "19": 193323,
+      "20": 191943,
+      "22": 123854,
+      "21": 119042
+    },
+    "ranges": {
+      "beta": [
+        -97530086993818.4,
+        7.32167313943288
+      ],
+      "standard_error": [
+        0.0348775761773151,
+        119009184983070.0
+      ],
+      "effect_allele_frequency": [
+        0.25,
+        0.99
+      ],
+      "p_value": [
+        2.14540124574516e-08,
+        0.999999940653261
+      ]
+    },
+    "variant_types": {
+      "biallelic_snv_length_1": 7890011,
+      "indels_or_multinucleotide": 600359,
+      "palindromic_snps_AT_CG": 1179324,
+      "non_rsid_identifiers_chr_pos": 11747,
+      "maf_lt_0.01": 0
+    },
+    "anomalies": {
+      "invalid_p_value": 0,
+      "invalid_se": 0,
+      "invalid_eaf": 0
+    },
+    "raw_significance_counts": {
+      "genome_wide_p_lt_5e-8": 4,
+      "suggestive_p_lt_1e-5": 92
+    }
+  },
+  "GCST90502763": {
+    "gcst_id": "GCST90502763",
+    "trait_name": "Prediabetes (BMI-adjusted)",
+    "total_variants": 8488404,
+    "columns": [
+      "chromosome",
+      "base_pair_location",
+      "effect_allele",
+      "other_allele",
+      "beta",
+      "standard_error",
+      "effect_allele_frequency",
+      "p_value",
+      "rs_id"
+    ],
+    "missing_values": {
+      "chromosome": 0,
+      "base_pair_location": 0,
+      "effect_allele": 0,
+      "other_allele": 0,
+      "beta": 0,
+      "standard_error": 0,
+      "effect_allele_frequency": 0,
+      "p_value": 0,
+      "rs_id": 0
+    },
+    "chromosomes": {
+      "1": 660487,
+      "2": 707384,
+      "3": 612091,
+      "4": 624976,
+      "5": 549065,
+      "6": 556328,
+      "7": 481792,
+      "8": 458256,
+      "9": 373561,
+      "10": 440641,
+      "11": 422425,
+      "12": 409679,
+      "13": 321230,
+      "14": 276377,
+      "15": 238633,
+      "16": 259539,
+      "18": 240184,
+      "17": 227732,
+      "19": 193271,
+      "20": 191903,
+      "22": 123833,
+      "21": 119017
+    },
+    "ranges": {
+      "beta": [
+        -5469350201989.07,
+        5.73671409847941
+      ],
+      "standard_error": [
+        0.0353407662317307,
+        70918814970689.7
+      ],
+      "effect_allele_frequency": [
+        0.25,
+        0.99
+      ],
+      "p_value": [
+        7.67567905107595e-09,
+        0.999999379083813
+      ]
+    },
+    "variant_types": {
+      "biallelic_snv_length_1": 7888181,
+      "indels_or_multinucleotide": 600223,
+      "palindromic_snps_AT_CG": 1179041,
+      "non_rsid_identifiers_chr_pos": 11728,
+      "maf_lt_0.01": 0
+    },
+    "anomalies": {
+      "invalid_p_value": 0,
+      "invalid_se": 0,
+      "invalid_eaf": 0
+    },
+    "raw_significance_counts": {
+      "genome_wide_p_lt_5e-8": 7,
+      "suggestive_p_lt_1e-5": 100
+    }
+  }
+}

@@ -1,0 +1,20 @@
+# Ignore large raw GWAS summary statistics TSVs (>800 MB each) and temporary download chunks
+data/*.tsv
+data/*.part*
+
+# Ignore large intermediate numpy quantile arrays and regional TSV caches if desired, or keep lightweight TSVs
+results/*.npz
+results/.mplconfig/
+
+# Python virtual environments and bytecode caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS & Editor metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

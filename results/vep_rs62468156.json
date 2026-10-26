@@ -1,0 +1,54 @@
+[
+  {
+    "colocated_variants": [
+      {
+        "id": "rs62468156",
+        "frequencies": {
+          "T": {
+            "gnomadg_mid": 0.2381,
+            "gnomadg_afr": 0.1956,
+            "amr": 0.17,
+            "eas": 0.0724,
+            "gnomadg_eas": 0.07389,
+            "gnomadg_sas": 0.1107,
+            "gnomadg_asj": 0.2279,
+            "gnomadg_ami": 0.1228,
+            "af": 0.1552,
+            "eur": 0.2296,
+            "gnomadg_nfe": 0.2216,
+            "gnomadg": 0.1948,
+            "gnomadg_remaining": 0.2154,
+            "gnomadg_amr": 0.1702,
+            "gnomadg_fin": 0.1421,
+            "afr": 0.1861,
+            "sas": 0.1115
+          }
+        },
+        "allele_string": "C/T",
+        "strand": 1,
+        "seq_region_name": "7",
+        "end": 131987551,
+        "start": 131987551
+      }
+    ],
+    "seq_region_name": "7",
+    "intergenic_consequences": [
+      {
+        "variant_allele": "T",
+        "conservation": 0.624,
+        "impact": "MODIFIER",
+        "consequence_terms": [
+          "intergenic_variant"
+        ]
+      }
+    ],
+    "allele_string": "C/T",
+    "id": "rs62468156",
+    "input": "rs62468156",
+    "most_severe_consequence": "intergenic_variant",
+    "assembly_name": "GRCh38",
+    "start": 131987551,
+    "strand": 1,
+    "end": 131987551
+  }
+]

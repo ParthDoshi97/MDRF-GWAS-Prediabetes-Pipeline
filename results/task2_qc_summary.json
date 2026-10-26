@@ -1,0 +1,90 @@
+{
+  "GCST90502762": {
+    "gcst_id": "GCST90502762",
+    "trait_name": "Prediabetes (Unadjusted for BMI)",
+    "counts": {
+      "raw_variants": 8490370,
+      "failed_basic_range_or_missing": 0,
+      "failed_acgt_allele_check": 0,
+      "failed_saige_convergence_beta_se_lt_10": 45,
+      "exact_duplicate_variants": 0,
+      "maf_lt_0.01": 0,
+      "qc_passed_primary": 8490325,
+      "qc_removed_primary": 45,
+      "multiallelic_coordinate_rows_flagged": 0,
+      "duplicate_rsid_rows_flagged": 0,
+      "palindromic_snps_total": 1179324,
+      "ambiguous_palindromic_maf_gt_0.40_flagged": 114075,
+      "low_frequency_0.01_to_0.05": 3196949,
+      "common_variants_maf_ge_0.05": 5293376,
+      "qc_passed_strict_harmonisation_ready": 8364530
+    },
+    "outlier_diagnostics": {
+      "count": 45,
+      "se_gt_1e6_count": 44,
+      "abs_beta_between_10_and_100": 1,
+      "min_p_among_outliers": 0.0601066817192702
+    },
+    "genomic_inflation": {
+      "lambda_gc_raw": 1.0,
+      "lambda_gc_qc_all": 0.99999,
+      "lambda_gc_common_maf_ge_0.05": 1.00309,
+      "lambda_gc_lowfreq_maf_lt_0.05": 0.99479,
+      "lambda_gc_strict_no_ambig_palindromic": 0.99993,
+      "median_p_value_qc": 0.500003
+    },
+    "statistical_consistency": {
+      "pearson_r_reported_vs_wald_neglog10p": 0.999981,
+      "max_abs_diff_neglog10p_at_p_lt_1e-5": 0.7152
+    },
+    "post_qc_significance_counts": {
+      "genome_wide_p_lt_5e-8": 4,
+      "suggestive_p_lt_1e-5": 92,
+      "nominal_p_lt_1e-3": 7903
+    }
+  },
+  "GCST90502763": {
+    "gcst_id": "GCST90502763",
+    "trait_name": "Prediabetes (BMI-adjusted)",
+    "counts": {
+      "raw_variants": 8488404,
+      "failed_basic_range_or_missing": 0,
+      "failed_acgt_allele_check": 0,
+      "failed_saige_convergence_beta_se_lt_10": 45,
+      "exact_duplicate_variants": 0,
+      "maf_lt_0.01": 0,
+      "qc_passed_primary": 8488359,
+      "qc_removed_primary": 45,
+      "multiallelic_coordinate_rows_flagged": 0,
+      "duplicate_rsid_rows_flagged": 0,
+      "palindromic_snps_total": 1179041,
+      "ambiguous_palindromic_maf_gt_0.40_flagged": 114081,
+      "low_frequency_0.01_to_0.05": 3194965,
+      "common_variants_maf_ge_0.05": 5293394,
+      "qc_passed_strict_harmonisation_ready": 8362577
+    },
+    "outlier_diagnostics": {
+      "count": 45,
+      "se_gt_1e6_count": 44,
+      "abs_beta_between_10_and_100": 1,
+      "min_p_among_outliers": 0.0359201117444616
+    },
+    "genomic_inflation": {
+      "lambda_gc_raw": 1.0,
+      "lambda_gc_qc_all": 1.00001,
+      "lambda_gc_common_maf_ge_0.05": 1.00406,
+      "lambda_gc_lowfreq_maf_lt_0.05": 0.99326,
+      "lambda_gc_strict_no_ambig_palindromic": 1.00001,
+      "median_p_value_qc": 0.499998
+    },
+    "statistical_consistency": {
+      "pearson_r_reported_vs_wald_neglog10p": 0.999979,
+      "max_abs_diff_neglog10p_at_p_lt_1e-5": 0.7911
+    },
+    "post_qc_significance_counts": {
+      "genome_wide_p_lt_5e-8": 7,
+      "suggestive_p_lt_1e-5": 100,
+      "nominal_p_lt_1e-3": 8361
+    }
+  }
+}

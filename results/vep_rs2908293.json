@@ -1,0 +1,523 @@
+[
+  {
+    "transcript_consequences": [
+      {
+        "consequence_terms": [
+          "intron_variant"
+        ],
+        "loeuf": 0.79017,
+        "gene_symbol_source": "HGNC",
+        "conservation": 0.096,
+        "phaplo": 0.706635501650286,
+        "gene_symbol": "GCK",
+        "ptriplo": 0.984608412423419,
+        "hgnc_id": "HGNC:4195",
+        "impact": "MODIFIER",
+        "strand": -1,
+        "opentargets": [
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "sigmoid colon",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000106633",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ],
+        "biotype": "protein_coding",
+        "variant_allele": "A",
+        "transcript_id": "ENST00000403799",
+        "gene_id": "ENSG00000106633"
+      },
+      {
+        "hgnc_id": "HGNC:4195",
+        "impact": "MODIFIER",
+        "ptriplo": 0.984608412423419,
+        "transcript_id": "ENST00000403799",
+        "gene_id": "ENSG00000106633",
+        "biotype": "protein_coding",
+        "variant_allele": "C",
+        "opentargets": [
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000106633",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlBiosampleName": "sigmoid colon",
+            "OpenTargets_gwasGeneId": ""
+          }
+        ],
+        "strand": -1,
+        "consequence_terms": [
+          "intron_variant"
+        ],
+        "conservation": 0.096,
+        "gene_symbol": "GCK",
+        "phaplo": 0.706635501650286,
+        "loeuf": 0.79017,
+        "gene_symbol_source": "HGNC"
+      },
+      {
+        "hgnc_id": "HGNC:4195",
+        "impact": "MODIFIER",
+        "ptriplo": 0.984608412423419,
+        "biotype": "protein_coding",
+        "variant_allele": "A",
+        "gene_id": "ENSG00000106633",
+        "transcript_id": "ENST00000437084",
+        "strand": -1,
+        "opentargets": [
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "sigmoid colon",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000106633",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ],
+        "consequence_terms": [
+          "intron_variant"
+        ],
+        "gene_symbol": "GCK",
+        "phaplo": 0.706635501650286,
+        "conservation": 0.096,
+        "gene_symbol_source": "HGNC",
+        "loeuf": 0.79017
+      },
+      {
+        "loeuf": 0.79017,
+        "gene_symbol_source": "HGNC",
+        "conservation": 0.096,
+        "gene_symbol": "GCK",
+        "phaplo": 0.706635501650286,
+        "consequence_terms": [
+          "intron_variant"
+        ],
+        "opentargets": [
+          {
+            "OpenTargets_qtlBiosampleName": "sigmoid colon",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000106633",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ],
+        "strand": -1,
+        "transcript_id": "ENST00000437084",
+        "gene_id": "ENSG00000106633",
+        "biotype": "protein_coding",
+        "variant_allele": "C",
+        "ptriplo": 0.984608412423419,
+        "hgnc_id": "HGNC:4195",
+        "impact": "MODIFIER"
+      },
+      {
+        "conservation": 0.096,
+        "gene_symbol": "GCK",
+        "phaplo": 0.706635501650286,
+        "loeuf": 0.79017,
+        "gene_symbol_source": "HGNC",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "variant_allele": "A",
+        "biotype": "protein_coding_CDS_not_defined",
+        "transcript_id": "ENST00000476008",
+        "gene_id": "ENSG00000106633",
+        "strand": -1,
+        "opentargets": [
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "sigmoid colon",
+            "OpenTargets_qtlGeneId": "ENSG00000106633",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ],
+        "impact": "MODIFIER",
+        "hgnc_id": "HGNC:4195",
+        "ptriplo": 0.984608412423419
+      },
+      {
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "loeuf": 0.79017,
+        "gene_symbol_source": "HGNC",
+        "conservation": 0.096,
+        "gene_symbol": "GCK",
+        "phaplo": 0.706635501650286,
+        "ptriplo": 0.984608412423419,
+        "impact": "MODIFIER",
+        "hgnc_id": "HGNC:4195",
+        "opentargets": [
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "sigmoid colon",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000106633",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          }
+        ],
+        "strand": -1,
+        "transcript_id": "ENST00000476008",
+        "gene_id": "ENSG00000106633",
+        "variant_allele": "C",
+        "biotype": "protein_coding_CDS_not_defined"
+      },
+      {
+        "consequence_terms": [
+          "intron_variant",
+          "NMD_transcript_variant"
+        ],
+        "gene_symbol": "GCK",
+        "phaplo": 0.706635501650286,
+        "conservation": 0.096,
+        "gene_symbol_source": "HGNC",
+        "loeuf": 0.79017,
+        "hgnc_id": "HGNC:4195",
+        "impact": "MODIFIER",
+        "ptriplo": 0.984608412423419,
+        "gene_id": "ENSG00000106633",
+        "transcript_id": "ENST00000616242",
+        "variant_allele": "A",
+        "biotype": "nonsense_mediated_decay",
+        "opentargets": [
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000106633",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "sigmoid colon",
+            "OpenTargets_gwasGeneId": ""
+          }
+        ],
+        "strand": -1
+      },
+      {
+        "loeuf": 0.79017,
+        "gene_symbol_source": "HGNC",
+        "conservation": 0.096,
+        "phaplo": 0.706635501650286,
+        "gene_symbol": "GCK",
+        "consequence_terms": [
+          "intron_variant",
+          "NMD_transcript_variant"
+        ],
+        "strand": -1,
+        "opentargets": [
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "sigmoid colon",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000106633",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          }
+        ],
+        "variant_allele": "C",
+        "biotype": "nonsense_mediated_decay",
+        "transcript_id": "ENST00000616242",
+        "gene_id": "ENSG00000106633",
+        "ptriplo": 0.984608412423419,
+        "hgnc_id": "HGNC:4195",
+        "impact": "MODIFIER"
+      },
+      {
+        "biotype": "protein_coding",
+        "variant_allele": "A",
+        "transcript_id": "ENST00000671824",
+        "gene_id": "ENSG00000106633",
+        "strand": -1,
+        "opentargets": [
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000106633",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "sigmoid colon"
+          }
+        ],
+        "hgnc_id": "HGNC:4195",
+        "impact": "MODIFIER",
+        "ptriplo": 0.984608412423419,
+        "conservation": 0.096,
+        "gene_symbol": "GCK",
+        "phaplo": 0.706635501650286,
+        "loeuf": 0.79017,
+        "gene_symbol_source": "HGNC",
+        "consequence_terms": [
+          "intron_variant"
+        ]
+      },
+      {
+        "gene_symbol": "GCK",
+        "phaplo": 0.706635501650286,
+        "conservation": 0.096,
+        "gene_symbol_source": "HGNC",
+        "loeuf": 0.79017,
+        "consequence_terms": [
+          "intron_variant"
+        ],
+        "biotype": "protein_coding",
+        "variant_allele": "C",
+        "gene_id": "ENSG00000106633",
+        "transcript_id": "ENST00000671824",
+        "strand": -1,
+        "opentargets": [
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000106633",
+            "OpenTargets_qtlBiosampleName": "sigmoid colon",
+            "OpenTargets_gwasGeneId": ""
+          }
+        ],
+        "hgnc_id": "HGNC:4195",
+        "impact": "MODIFIER",
+        "ptriplo": 0.984608412423419
+      },
+      {
+        "gene_id": "ENSG00000106633",
+        "transcript_id": "ENST00000673284",
+        "variant_allele": "A",
+        "biotype": "protein_coding",
+        "opentargets": [
+          {
+            "OpenTargets_qtlBiosampleName": "sigmoid colon",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlGeneId": "ENSG00000106633",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ],
+        "strand": -1,
+        "impact": "MODIFIER",
+        "hgnc_id": "HGNC:4195",
+        "ptriplo": 0.984608412423419,
+        "phaplo": 0.706635501650286,
+        "gene_symbol": "GCK",
+        "conservation": 0.096,
+        "gene_symbol_source": "HGNC",
+        "loeuf": 0.79017,
+        "consequence_terms": [
+          "intron_variant"
+        ]
+      },
+      {
+        "gene_symbol": "GCK",
+        "phaplo": 0.706635501650286,
+        "conservation": 0.096,
+        "gene_symbol_source": "HGNC",
+        "loeuf": 0.79017,
+        "consequence_terms": [
+          "intron_variant"
+        ],
+        "variant_allele": "C",
+        "biotype": "protein_coding",
+        "gene_id": "ENSG00000106633",
+        "transcript_id": "ENST00000673284",
+        "strand": -1,
+        "opentargets": [
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "sigmoid colon",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000106633",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          }
+        ],
+        "impact": "MODIFIER",
+        "hgnc_id": "HGNC:4195",
+        "ptriplo": 0.984608412423419
+      },
+      {
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "GCK",
+        "phaplo": 0.706635501650286,
+        "conservation": 0.096,
+        "gene_symbol_source": "HGNC",
+        "loeuf": 0.79017,
+        "hgnc_id": "HGNC:4195",
+        "impact": "MODIFIER",
+        "ptriplo": 0.984608412423419,
+        "variant_allele": "A",
+        "biotype": "retained_intron",
+        "gene_id": "ENSG00000106633",
+        "transcript_id": "ENST00000682635",
+        "strand": -1,
+        "opentargets": [
+          {
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "sigmoid colon",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000106633",
+            "OpenTargets_gwasLocusToGeneScore": ""
+          }
+        ]
+      },
+      {
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "conservation": 0.096,
+        "phaplo": 0.706635501650286,
+        "gene_symbol": "GCK",
+        "loeuf": 0.79017,
+        "gene_symbol_source": "HGNC",
+        "impact": "MODIFIER",
+        "hgnc_id": "HGNC:4195",
+        "ptriplo": 0.984608412423419,
+        "transcript_id": "ENST00000682635",
+        "gene_id": "ENSG00000106633",
+        "variant_allele": "C",
+        "biotype": "retained_intron",
+        "opentargets": [
+          {
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_qtlGeneId": "ENSG00000106633",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlBiosampleName": "sigmoid colon",
+            "OpenTargets_gwasGeneId": ""
+          }
+        ],
+        "strand": -1
+      },
+      {
+        "impact": "MODIFIER",
+        "consequence_terms": [
+          "upstream_gene_variant"
+        ],
+        "conservation": 0.096,
+        "variant_allele": "A",
+        "biotype": "lncRNA",
+        "transcript_id": "ENST00000829891",
+        "gene_id": "ENSG00000307930",
+        "distance": 2652,
+        "strand": 1,
+        "opentargets": [
+          {
+            "OpenTargets_qtlBiosampleName": "sigmoid colon",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000106633",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ]
+      },
+      {
+        "impact": "MODIFIER",
+        "consequence_terms": [
+          "upstream_gene_variant"
+        ],
+        "variant_allele": "C",
+        "biotype": "lncRNA",
+        "conservation": 0.096,
+        "gene_id": "ENSG00000307930",
+        "transcript_id": "ENST00000829891",
+        "strand": 1,
+        "distance": 2652,
+        "opentargets": [
+          {
+            "OpenTargets_qtlBiosampleName": "sigmoid colon",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlGeneId": "ENSG00000106633",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasDiseases": ""
+          }
+        ]
+      },
+      {
+        "opentargets": [
+          {
+            "OpenTargets_qtlGeneId": "ENSG00000106633",
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "sigmoid colon"
+          }
+        ],
+        "strand": 1,
+        "distance": 2680,
+        "gene_id": "ENSG00000307930",
+        "transcript_id": "ENST00000829892",
+        "variant_allele": "A",
+        "biotype": "lncRNA",
+        "conservation": 0.096,
+        "consequence_terms": [
+          "upstream_gene_variant"
+        ],
+        "impact": "MODIFIER"
+      },
+      {
+        "consequence_terms": [
+          "upstream_gene_variant"
+        ],
+        "impact": "MODIFIER",
+        "strand": 1,
+        "distance": 2680,
+        "opentargets": [
+          {
+            "OpenTargets_gwasLocusToGeneScore": "",
+            "OpenTargets_qtlGeneId": "ENSG00000106633",
+            "OpenTargets_gwasDiseases": "",
+            "OpenTargets_gwasGeneId": "",
+            "OpenTargets_qtlBiosampleName": "sigmoid colon"
+          }
+        ],
+        "biotype": "lncRNA",
+        "variant_allele": "C",
+        "conservation": 0.096,
+        "gene_id": "ENSG00000307930",
+        "transcript_id": "ENST00000829892"
+      }
+    ],
+    "assembly_name": "GRCh38",
+    "allele_string": "G/A/C",
+    "seq_region_name": "7",
+    "end": 44169723,
+    "most_severe_consequence": "intron_variant",
+    "id": "rs2908293",
+    "colocated_variants": [
+      {
+        "strand": 1,
+        "start": 44169723,
+        "frequencies": {
+          "A": {
+            "af": 0.1883,
+            "gnomadg_ami": 0.2033,
+            "afr": 0.1203,
+            "gnomadg_amr": 0.2271,
+            "eur": 0.2545,
+            "gnomadg_mid": 0.2143,
+            "eas": 0.1597,
+            "gnomadg_nfe": 0.2243,
+            "gnomadg_fin": 0.2866,
+            "gnomadg": 0.1986,
+            "gnomadg_remaining": 0.2114,
+            "gnomadg_asj": 0.1883,
+            "gnomadg_eas": 0.1431,
+            "sas": 0.1963,
+            "gnomadg_afr": 0.1298,
+            "gnomadg_sas": 0.2028,
+            "amr": 0.2522
+          }
+        },
+        "pubmed": [
+          37277458,
+          40468860
+        ],
+        "id": "rs2908293",
+        "end": 44169723,
+        "seq_region_name": "7",
+        "phenotype_or_disease": 1,
+        "allele_string": "G/A/C"
+      }
+    ],
+    "strand": 1,
+    "input": "rs2908293",
+    "start": 44169723
+  }
+]

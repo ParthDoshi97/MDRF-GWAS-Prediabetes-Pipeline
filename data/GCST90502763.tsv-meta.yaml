@@ -1,0 +1,37 @@
+# Study meta-data
+gwas_id: GCST90502763
+gwas_catalog_api: https://www.ebi.ac.uk/gwas/rest/api/studies/GCST90502763
+date_metadata_last_modified: 2025-06-18
+
+# Trait Information
+trait_description:
+  - Prediabetes (BMI-adjusted)
+ontology_mapping:
+  - EFO_1001121
+
+# Genotyping Information
+genome_assembly: GRCh38
+genotyping_technology:
+  - Whole genome sequencing
+
+# Sample Information
+samples:
+  - sample_ancestry_category:
+      - Greater Middle Eastern (Middle Eastern, North African or Persian)
+    sample_ancestry:
+      - Qatari
+    sample_size: 10932
+    case_control_study: true
+
+# Summary Statistic information
+data_file_name: GCST90502763.tsv
+file_type: GWAS-SSF v1.0
+data_file_md5sum: 4e72255db1d27b3a4592a10c9430f11b
+analysis_software: SAIGE (Scalable and Accurate Implementation of GEneralized mixed
+  model)
+adjusted_covariates:
+  - Age, gender, BMI, PC1-PC10
+
+# Harmonization status
+is_harmonised: false
+is_sorted: false

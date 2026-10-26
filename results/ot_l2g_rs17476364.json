@@ -1,0 +1,355 @@
+{
+  "credibleSets": {
+    "count": 399,
+    "rows": [
+      {
+        "studyLocusId": "00277b93b96d7a9447d555c2b8fff9fb",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST90501121",
+          "studyType": "gwas",
+          "traitFromSource": "Cholesterol in IDL"
+        },
+        "variant": {
+          "id": "10_69333636_C_T"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8199368119239807,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "003d885ab082e356800d608da29d563a",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90475712",
+          "studyType": "gwas",
+          "traitFromSource": "Intestinal disaccharidase deficiencies and disaccharide malabsorption (PheCode 271.3)"
+        },
+        "variant": {
+          "id": "10_69339353_A_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8185427784919739,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "008e9d584a9564d00a2925eaec810036",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST90501232",
+          "studyType": "gwas",
+          "traitFromSource": "Pyruvate levels"
+        },
+        "variant": {
+          "id": "10_69334748_T_C"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.773736298084259,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "0104adb8f5cfb3796980d59b97d71214",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST90018973",
+          "studyType": "gwas",
+          "traitFromSource": "Total bilirubin levels"
+        },
+        "variant": {
+          "id": "10_69334748_T_C"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.7510425448417664,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "0253c7de1ddcbb129bbb6ec2ec6d2133",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST90497512",
+          "studyType": "gwas",
+          "traitFromSource": "Cholesterol in IDL"
+        },
+        "variant": {
+          "id": "10_69333636_C_T"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8170926570892334,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "0286c827c4362ac574e2b38107d9b72a",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST90475342",
+          "studyType": "gwas",
+          "traitFromSource": "hematocrit (minimum, inv-norm transformed)"
+        },
+        "variant": {
+          "id": "10_69334748_T_C"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8265475034713745,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "02962f9b50902885025c60edc34a3ede",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST90499213",
+          "studyType": "gwas",
+          "traitFromSource": "Omega-6 fatty acids"
+        },
+        "variant": {
+          "id": "10_69339353_A_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8010469675064087,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "02bae4847be8dc97b6adb3d42dccc395",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST90479629",
+          "studyType": "gwas",
+          "traitFromSource": "hematocrit (mean, inv-norm transformed)"
+        },
+        "variant": {
+          "id": "10_69334748_T_C"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.7510425448417664,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "055f12d2fd161be24a94b8bcb43591b5",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90691568",
+          "studyType": "gwas",
+          "traitFromSource": "Apolipoprotein B levels"
+        },
+        "variant": {
+          "id": "10_69333636_C_T"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8316206932067871,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "061b2703d1f7ec69821d141de0a0706c",
+        "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+        "study": {
+          "id": "GCST90691813",
+          "studyType": "gwas",
+          "traitFromSource": "Mean corpuscular volume (UKB data field 30040)"
+        },
+        "variant": {
+          "id": "10_69334748_T_C"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.7626442909240723,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "0805a763457a96532cb9d436541c5b2c",
+        "confidence": "PICS fine-mapped credible set based on reported top hit",
+        "study": {
+          "id": "GCST90056174",
+          "studyType": "gwas",
+          "traitFromSource": "Mean corpuscular volume"
+        },
+        "variant": {
+          "id": "10_69334748_T_C"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.7387728691101074,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "082f5f984ba0b5ce291b5df8791ab4a6",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST90474374",
+          "studyType": "gwas",
+          "traitFromSource": "HDL cholesterol levels (UKB data field 30760)"
+        },
+        "variant": {
+          "id": "10_69339353_A_G"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8047577142715454,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "08f5a21bc2693a9cc94271ecfbc6b06c",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST90480669",
+          "studyType": "gwas",
+          "traitFromSource": "red blood cell count (RBC, mean, inv-norm transformed)"
+        },
+        "variant": {
+          "id": "10_69334748_T_C"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.7510425448417664,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "09f1e3123893b91a09d60aebfa8c2543",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST90475450",
+          "studyType": "gwas",
+          "traitFromSource": "mean corpuscular hemoglobin (MCH, minimum, inv-norm transformed)"
+        },
+        "variant": {
+          "id": "10_69334748_T_C"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.7510425448417664,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "studyLocusId": "0a7556490a4691fe794435e9df859a5d",
+        "confidence": "PICS fine-mapped credible set extracted from summary statistics",
+        "study": {
+          "id": "GCST90498065",
+          "studyType": "gwas",
+          "traitFromSource": "Phospholipids in large LDL"
+        },
+        "variant": {
+          "id": "10_69333636_C_T"
+        },
+        "l2GPredictions": {
+          "rows": [
+            {
+              "score": 0.8019161224365234,
+              "target": {
+                "id": "ENSG00000156515",
+                "approvedSymbol": "HK1"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "_truncated": "(Showing 15 of 399 rows)"
+      }
+    ]
+  }
+}

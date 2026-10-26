@@ -1,0 +1,56 @@
+[
+  {
+    "median": 19.1496,
+    "tissueSiteDetailId": "Fallopian_Tube",
+    "ontologyId": "UBERON:0003889",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000154678.18",
+    "geneSymbol": "PDE1C",
+    "unit": "TPM"
+  },
+  {
+    "median": 14.5317,
+    "tissueSiteDetailId": "Heart_Left_Ventricle",
+    "ontologyId": "UBERON:0006566",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000154678.18",
+    "geneSymbol": "PDE1C",
+    "unit": "TPM"
+  },
+  {
+    "median": 13.946,
+    "tissueSiteDetailId": "Brain_Spinal_cord_cervical_c-1",
+    "ontologyId": "UBERON:0006469",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000154678.18",
+    "geneSymbol": "PDE1C",
+    "unit": "TPM"
+  },
+  {
+    "median": 9.85735,
+    "tissueSiteDetailId": "Heart_Atrial_Appendage",
+    "ontologyId": "UBERON:0006631",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000154678.18",
+    "geneSymbol": "PDE1C",
+    "unit": "TPM"
+  },
+  {
+    "median": 8.88325,
+    "tissueSiteDetailId": "Bladder",
+    "ontologyId": "UBERON:0001255",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000154678.18",
+    "geneSymbol": "PDE1C",
+    "unit": "TPM"
+  },
+  {
+    "median": 7.29344,
+    "tissueSiteDetailId": "Artery_Tibial",
+    "ontologyId": "UBERON:0007610",
+    "datasetId": "gtex_v10",
+    "gencodeId": "ENSG00000154678.18",
+    "geneSymbol": "PDE1C",
+    "unit": "TPM"
+  }
+]
