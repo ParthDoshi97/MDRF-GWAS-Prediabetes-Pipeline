@@ -1,10 +1,16 @@
-# Ignore large raw GWAS summary statistics TSVs (>800 MB each) and temporary download chunks
-data/*.tsv
-data/*.part*
+# Exclude data directory (raw 814 MB GWAS TSV files and metadata)
+data/
 
-# Ignore large intermediate numpy quantile arrays and regional TSV caches if desired, or keep lightweight TSVs
+# Exclude final assignment report documents (submitted separately alongside the repo link)
+Final_Scientific_Report.md
+Final_Scientific_Report.docx
+Final_Scientific_Report_Task7.docx
+~$*.docx
+
+# Exclude intermediate cache and temporary files
 results/*.npz
 results/.mplconfig/
+.licenses/
 
 # Python virtual environments and bytecode caches
 .venv/

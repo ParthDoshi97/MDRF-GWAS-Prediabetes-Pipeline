@@ -11,7 +11,6 @@ import json
 import numpy as np
 from scipy.stats import norm
 
-# Prioritized variants from Task 3 & Task 5 (BMI-adjusted GCST90502763)
 PRIORITIZED_LOCI = [
     {
         "rank": 1,
@@ -114,35 +113,22 @@ PRIORITIZED_LOCI = [
 ]
 
 def compute_power_and_sample_sizes():
-    """
-    In QBB discovery: N_total = 10,932 (2,267 cases, 8,665 controls; case fraction phi = 0.20737).
-    Effective sample size N_eff = 4 * phi * (1 - phi) * N_total = 7,187.4.
-    Since SE scales as 1 / sqrt(N_total) for fixed case fraction phi:
-    To achieve target Z_req = z_{1 - alpha/2} + z_{power}, required N_total_req = N_total * (Z_req / Z_obs_wald)^2,
-    or using shrinkage-adjusted beta (80% of discovery beta to correct for Winner's Curse).
-    """
     n_discovery = 10932
     phi = 2267 / 10932  # 0.207373
 
     z_gw = norm.ppf(1 - 5e-8 / 2)        # 5.4513
-    z_rep = norm.ppf(1 - (0.05 / 7) / 2) # 2.6901 (Bonferroni for 7 loci)
+    z_rep = norm.ppf(1 - (0.05 / 7) / 2) # 2.6901
     z_80 = norm.ppf(0.80)                # 0.8416
-    z_90 = norm.ppf(0.90)                # 1.2816
 
     results = []
     for loc in PRIORITIZED_LOCI:
-        # Discovery empirical variance factor V_emp = SE^2 * N_discovery
         v_emp = (loc["se"] ** 2) * n_discovery
         beta_disc = loc["beta_risk"]
-        beta_wc = 0.85 * beta_disc  # 15% Winner's Curse shrinkage for replication planning
+        beta_wc = 0.85 * beta_disc
 
-        # 1. Total N needed for 80% power at genome-wide significance (5e-8) using discovery beta
         n_gw80_disc = int(np.ceil(v_emp * ((z_gw + z_80) / beta_disc) ** 2))
-        # 2. Total N needed for 80% power at genome-wide significance (5e-8) with 15% Winner's Curse shrinkage
         n_gw80_wc = int(np.ceil(v_emp * ((z_gw + z_80) / beta_wc) ** 2))
-        # 3. Independent replication cohort N needed for 80% power at alpha = 0.05/7 (with Winner's Curse shrinkage)
         n_rep80_wc = int(np.ceil(v_emp * ((z_rep + z_80) / beta_wc) ** 2))
-        # 4. Current power at alpha = 5e-8 in N = 10,932
         ncp_current = beta_disc / loc["se"]
         power_current_gw = float(1 - norm.cdf(z_gw - ncp_current))
 
@@ -173,11 +159,6 @@ def compute_power_and_sample_sizes():
     with open("results/task6_proposed_next_steps.json", "w") as f:
         json.dump(out, f, indent=2)
     print("Saved results/task6_proposed_next_steps.json")
-    for r in results:
-        print(f"#{r['rank']} {r['gene']} ({r['rs_id']}): current GW power={r['current_power_at_5e-8']*100:.1f}%, "
-              f"N_total(GW 80%)={r['n_total_for_80pct_gw_sig_unshrunk']:,}, "
-              f"Indep Rep N(Bonf 80%, WC-adjusted)={r['independent_replication_n_for_80pct_bonferroni']:,} "
-              f"({r['independent_replication_cases_at_21pct_prevalence']:,} cases)")
 
 if __name__ == "__main__":
     compute_power_and_sample_sizes()
